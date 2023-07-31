@@ -1,0 +1,101 @@
+"Pathosystem","Strain","HostGeno","Sample","BacGrowth"
+"Pto_Col-0","Pto","Col-0","SRR6003734",6.31198160943056
+"Pto_Col-0","Pto","Col-0","SRR6003742",6.31198160943056
+"Pto_Col-0","Pto","Col-0","SRR6003783",6.31198160943056
+"Pto_Col-0","Pto","Col-0","SRR6003766",6.31198160943056
+"Pto_Col-0","Pto","Col-0","SRR6003718",6.31198160943056
+"Pto_Col-0","Pto","Col-0","SRR6003788",6.31198160943056
+"Pto_Col-0","Pto","Col-0","SRR6003784",6.31198160943056
+"Pto_Col-0","Pto","Col-0","SRR6003785",6.31198160943056
+"Pto_Col-0","Pto","Col-0","SRR6003786",6.31198160943056
+"Pto_Col-0","Pto","Col-0","SRR6003804",6.31198160943056
+"Pto_Col-0","Pto","Col-0","SRR6003760",6.31198160943056
+"Pto_Col-0","Pto","Col-0","SRR6003789",6.31198160943056
+"Pto_Col-0","Pto","Col-0","SRR6003726",6.31198160943056
+"Pto_Col-0","Pto","Col-0","SRR6003787",6.31198160943056
+"Pto_Col-0","Pto","Col-0","SRR6003754",6.31198160943056
+"Pto_Col-0","Pto","Col-0","SRR6003793",6.31198160943056
+"Pto_Col-0","Pto","Col-0","SRR6003781",6.31198160943056
+"Pto_Col-0","Pto","Col-0","SRR6003782",6.31198160943056
+"Pto_Col-0","Pto","Col-0","SRR6003800",6.31198160943056
+"Pto_Col-0","Pto","Col-0","SRR6003810",6.31198160943056
+"Pto_Col-0","Pto","Col-0","SRR6003814",6.31198160943056
+"Pto_Col-0","Pto","Col-0","SRR6003790",6.31198160943056
+"Pto_Col-0","Pto","Col-0","SRR6003792",6.31198160943056
+"Pto_Col-0","Pto","Col-0","SRR6003797",6.31198160943056
+"Pto_Col-0","Pto","Col-0","SRR6003791",6.31198160943056
+"Pto_Col-0__mock","Pto","Col-0 Mock treatment","SRR6003752",6.41315987708333
+"Pto_Col-0__mock","Pto","Col-0 Mock treatment","SRR6003750",6.41315987708333
+"Pto_Col-0_flg22","Pto","Col-0 flg22 treatment","SRR6003753",2.84217363733333
+"Pto_Col-0_flg22","Pto","Col-0 flg22 treatment","SRR6003751",2.84217363733333
+"Pto_cyp79b2 cyp79b3","Pto","cyp79b2 cyp79b3","SRR6003756",NA
+"Pto_cyp79b2 cyp79b3","Pto","cyp79b2 cyp79b3","SRR6003762",NA
+"Pto_dde2-2 ein2-1","Pto","dde2-2 ein2-1","SRR6003744",6.32194644595
+"Pto_dde2-2 ein2-1","Pto","dde2-2 ein2-1","SRR6003720",6.32194644595
+"Pto_dde2-2 ein2-1 pad4-1 sid2-2","Pto","dde2-2 ein2-1 pad4-1 sid2-2","SRR6003721",6.98021895097222
+"Pto_dde2-2 ein2-1 pad4-1 sid2-2","Pto","dde2-2 ein2-1 pad4-1 sid2-2","SRR6003745",6.98021895097222
+"Pto_npr1-1","Pto","npr1-1","SRR6003719",6.610820233675
+"Pto_npr1-1","Pto","npr1-1","SRR6003743",6.610820233675
+"Pto_pad4-1","Pto","pad4-1","SRR6003736",6.433519753175
+"Pto_pad4-1","Pto","pad4-1","SRR6003805",6.433519753175
+"Pto_pad4-1","Pto","pad4-1","SRR6003728",6.433519753175
+"Pto_pad4-1","Pto","pad4-1","SRR6003768",6.433519753175
+"Pto_pad4-1 sid2-2","Pto","pad4-1 sid2-2","SRR6003729",6.6656961391
+"Pto_pad4-1 sid2-2","Pto","pad4-1 sid2-2","SRR6003806",6.6656961391
+"Pto_pad4-1 sid2-2","Pto","pad4-1 sid2-2","SRR6003737",6.6656961391
+"Pto_pad4-1 sid2-2","Pto","pad4-1 sid2-2","SRR6003769",6.6656961391
+"Pto_rpm1-3 rps2-101C","Pto","rpm1-3 rps2-101C","SRR6003780",6.301207994
+"Pto_sid2-1 pmr4-1","Pto","sid2-1 pmr4-1","SRR6003755",NA
+"Pto_sid2-1 pmr4-1","Pto","sid2-1 pmr4-1","SRR6003761",NA
+"Pto_sid2-2","Pto","sid2-2","SRR6003735",6.56735553475
+"Pto_sid2-2","Pto","sid2-2","SRR6003767",6.56735553475
+"Pto_sid2-2","Pto","sid2-2","SRR6003727",6.56735553475
+"Pto_stp1 stp13","Pto","stp1 stp13","SRR6003815",NA
+"Pto_stp1 stp13","Pto","stp1 stp13","SRR6003811",NA
+"Pto-AvrRps4_Col-0","Pto-AvrRps4","Col-0","SRR6003802",NA
+"Pto-AvrRps4_Col-0","Pto-AvrRps4","Col-0","SRR6003795",NA
+"Pto-AvrRpt2_Col-0","Pto-AvrRpt2","Col-0","SRR6003722",4.21749912856944
+"Pto-AvrRpt2_Col-0","Pto-AvrRpt2","Col-0","SRR6003798",4.21749912856944
+"Pto-AvrRpt2_Col-0","Pto-AvrRpt2","Col-0","SRR6003777",4.21749912856944
+"Pto-AvrRpt2_Col-0","Pto-AvrRpt2","Col-0","SRR6003738",4.21749912856944
+"Pto-AvrRpt2_Col-0","Pto-AvrRpt2","Col-0","SRR6003746",4.21749912856944
+"Pto-AvrRpt2_Col-0","Pto-AvrRpt2","Col-0","SRR6003801",4.21749912856944
+"Pto-AvrRpt2_Col-0","Pto-AvrRpt2","Col-0","SRR6003807",4.21749912856944
+"Pto-AvrRpt2_Col-0","Pto-AvrRpt2","Col-0","SRR6003763",4.21749912856944
+"Pto-AvrRpt2_Col-0","Pto-AvrRpt2","Col-0","SRR6003770",4.21749912856944
+"Pto-AvrRpt2_Col-0","Pto-AvrRpt2","Col-0","SRR6003773",4.21749912856944
+"Pto-AvrRpt2_Col-0","Pto-AvrRpt2","Col-0","SRR6003730",4.21749912856944
+"Pto-AvrRpt2_Col-0","Pto-AvrRpt2","Col-0","SRR6003779",4.21749912856944
+"Pto-AvrRpt2_Col-0","Pto-AvrRpt2","Col-0","SRR6003794",4.21749912856944
+"Pto-AvrRpt2_Col-0","Pto-AvrRpt2","Col-0","SRR6003816",4.21749912856944
+"Pto-AvrRpt2_Col-0","Pto-AvrRpt2","Col-0","SRR6003757",4.21749912856944
+"Pto-AvrRpt2_Col-0","Pto-AvrRpt2","Col-0","SRR6003812",4.21749912856944
+"Pto-AvrRpt2_cyp79b2 cyp79b3","Pto-AvrRpt2","cyp79b2 cyp79b3","SRR6003765",NA
+"Pto-AvrRpt2_cyp79b2 cyp79b3","Pto-AvrRpt2","cyp79b2 cyp79b3","SRR6003759",NA
+"Pto-AvrRpt2_dde2-2 ein2-1","Pto-AvrRpt2","dde2-2 ein2-1","SRR6003775",4.51167457055
+"Pto-AvrRpt2_dde2-2 ein2-1","Pto-AvrRpt2","dde2-2 ein2-1","SRR6003748",4.51167457055
+"Pto-AvrRpt2_dde2-2 ein2-1","Pto-AvrRpt2","dde2-2 ein2-1","SRR6003724",4.51167457055
+"Pto-AvrRpt2_dde2-2 ein2-1 pad4-1 sid2-2","Pto-AvrRpt2","dde2-2 ein2-1 pad4-1 sid2-2","SRR6003725",6.49609286126389
+"Pto-AvrRpt2_dde2-2 ein2-1 pad4-1 sid2-2","Pto-AvrRpt2","dde2-2 ein2-1 pad4-1 sid2-2","SRR6003776",6.49609286126389
+"Pto-AvrRpt2_dde2-2 ein2-1 pad4-1 sid2-2","Pto-AvrRpt2","dde2-2 ein2-1 pad4-1 sid2-2","SRR6003749",6.49609286126389
+"Pto-AvrRpt2_npr1-1","Pto-AvrRpt2","npr1-1","SRR6003774",5.084073455675
+"Pto-AvrRpt2_npr1-1","Pto-AvrRpt2","npr1-1","SRR6003747",5.084073455675
+"Pto-AvrRpt2_npr1-1","Pto-AvrRpt2","npr1-1","SRR6003723",5.084073455675
+"Pto-AvrRpt2_pad4-1","Pto-AvrRpt2","pad4-1","SRR6003772",4.651806142075
+"Pto-AvrRpt2_pad4-1","Pto-AvrRpt2","pad4-1","SRR6003732",4.651806142075
+"Pto-AvrRpt2_pad4-1","Pto-AvrRpt2","pad4-1","SRR6003808",4.651806142075
+"Pto-AvrRpt2_pad4-1","Pto-AvrRpt2","pad4-1","SRR6003740",4.651806142075
+"Pto-AvrRpt2_pad4-1 sid2-2","Pto-AvrRpt2","pad4-1 sid2-2","SRR6003809",5.98678949775
+"Pto-AvrRpt2_pad4-1 sid2-2","Pto-AvrRpt2","pad4-1 sid2-2","SRR6003733",5.98678949775
+"Pto-AvrRpt2_pad4-1 sid2-2","Pto-AvrRpt2","pad4-1 sid2-2","SRR6003741",5.98678949775
+"Pto-AvrRpt2_rpm1-3 rps2-101C","Pto-AvrRpt2","rpm1-3 rps2-101C","SRR6003778",6.35203978620833
+"Pto-AvrRpt2_sid2-1 pmr4-1","Pto-AvrRpt2","sid2-1 pmr4-1","SRR6003758",NA
+"Pto-AvrRpt2_sid2-1 pmr4-1","Pto-AvrRpt2","sid2-1 pmr4-1","SRR6003764",NA
+"Pto-AvrRpt2_sid2-2","Pto-AvrRpt2","sid2-2","SRR6003771",4.877584640525
+"Pto-AvrRpt2_sid2-2","Pto-AvrRpt2","sid2-2","SRR6003739",4.877584640525
+"Pto-AvrRpt2_sid2-2","Pto-AvrRpt2","sid2-2","SRR6003731",4.877584640525
+"Pto-AvrRpt2_stp1 stp13","Pto-AvrRpt2","stp1 stp13","SRR6003813",NA
+"Pto-AvrRpt2_stp1 stp13","Pto-AvrRpt2","stp1 stp13","SRR6003817",NA
+"Pto-D36E_Col-0","Pto-D36E","Col-0","SRR6003796",NA
+"Pto-D36E_Col-0","Pto-D36E","Col-0","SRR6003803",NA
+"Pto-D36E_Col-0","Pto-D36E","Col-0","SRR6003799",NA

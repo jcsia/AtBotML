@@ -1,0 +1,101 @@
+Pathosystem,Strain,HostGeno,Replicate,Index
+Pto_Col-0,Pto,Col-0,A13,1
+Pto_Col-0,Pto,Col-0,A14,2
+Pto_Col-0,Pto,Col-0,A15,3
+Pto_Col-0,Pto,Col-0,A17,4
+Pto_Col-0,Pto,Col-0,A25,5
+Pto_Col-0,Pto,Col-0,A26,6
+Pto_Col-0,Pto,Col-0,A42,7
+Pto_Col-0,Pto,Col-0,A52,8
+Pto_Col-0,Pto,Col-0,A52,9
+Pto_Col-0,Pto,Col-0,A52,10
+Pto_Col-0,Pto,Col-0,A52,11
+Pto_Col-0,Pto,Col-0,A53,12
+Pto_Col-0,Pto,Col-0,A53,13
+Pto_Col-0,Pto,Col-0,A53,14
+Pto_Col-0,Pto,Col-0,A53,15
+Pto_Col-0,Pto,Col-0,A54,16
+Pto_Col-0,Pto,Col-0,A54,17
+Pto_Col-0,Pto,Col-0,A54,18
+Pto_Col-0,Pto,Col-0,A54,19
+Pto_Col-0,Pto,Col-0,A57,20
+Pto_Col-0,Pto,Col-0,A58,21
+Pto_Col-0,Pto,Col-0,A59,22
+Pto_Col-0,Pto,Col-0,A66,23
+Pto_Col-0,Pto,Col-0,A71,24
+Pto_Col-0,Pto,Col-0,A74,25
+Pto_Col-0_flg22,Pto,Col-0 flg22 treatment,A22,1
+Pto_Col-0_flg22,Pto,Col-0 flg22 treatment,A23,2
+Pto_Col-0__mock,Pto,Col-0 Mock treatment,A22,1
+Pto_Col-0__mock,Pto,Col-0 Mock treatment,A23,2
+Pto_cyp79b2 cyp79b3,Pto,cyp79b2 cyp79b3,A25,1
+Pto_cyp79b2 cyp79b3,Pto,cyp79b2 cyp79b3,A26,2
+Pto_dde2-2 ein2-1,Pto,dde2-2 ein2-1,A13,1
+Pto_dde2-2 ein2-1,Pto,dde2-2 ein2-1,A15,2
+Pto_dde2-2 ein2-1 pad4-1 sid2-2,Pto,dde2-2 ein2-1 pad4-1 sid2-2,A13,1
+Pto_dde2-2 ein2-1 pad4-1 sid2-2,Pto,dde2-2 ein2-1 pad4-1 sid2-2,A15,2
+Pto_npr1-1,Pto,npr1-1,A13,1
+Pto_npr1-1,Pto,npr1-1,A15,2
+Pto_pad4-1,Pto,pad4-1,A14,1
+Pto_pad4-1,Pto,pad4-1,A17,2
+Pto_pad4-1,Pto,pad4-1,A42,3
+Pto_pad4-1,Pto,pad4-1,A66,4
+Pto_pad4-1 sid2-2,Pto,pad4-1 sid2-2,A17,1
+Pto_pad4-1 sid2-2,Pto,pad4-1 sid2-2,A42,2
+Pto_pad4-1 sid2-2,Pto,pad4-1 sid2-2,A66,3
+Pto_pad4-1 sid2-2,Pto,pad4-1 sid2-2,A14,4
+Pto_rpm1-3 rps2-101C,Pto,rpm1-3 rps2-101C,A48,1
+Pto_sid2-1 pmr4-1,Pto,sid2-1 pmr4-1,A25,1
+Pto_sid2-1 pmr4-1,Pto,sid2-1 pmr4-1,A26,2
+Pto_sid2-2,Pto,sid2-2,A14,1
+Pto_sid2-2,Pto,sid2-2,A17,2
+Pto_sid2-2,Pto,sid2-2,A42,3
+Pto_stp1 stp13,Pto,stp1 stp13,A71,1
+Pto_stp1 stp13,Pto,stp1 stp13,A74,2
+Pto-AvrRpt2_Col-0,Pto-AvrRpt2,Col-0,A13,1
+Pto-AvrRpt2_Col-0,Pto-AvrRpt2,Col-0,A14,2
+Pto-AvrRpt2_Col-0,Pto-AvrRpt2,Col-0,A15,3
+Pto-AvrRpt2_Col-0,Pto-AvrRpt2,Col-0,A17,4
+Pto-AvrRpt2_Col-0,Pto-AvrRpt2,Col-0,A25,5
+Pto-AvrRpt2_Col-0,Pto-AvrRpt2,Col-0,A26,6
+Pto-AvrRpt2_Col-0,Pto-AvrRpt2,Col-0,A42,7
+Pto-AvrRpt2_Col-0,Pto-AvrRpt2,Col-0,A44,8
+Pto-AvrRpt2_Col-0,Pto-AvrRpt2,Col-0,A47,9
+Pto-AvrRpt2_Col-0,Pto-AvrRpt2,Col-0,A48,10
+Pto-AvrRpt2_Col-0,Pto-AvrRpt2,Col-0,A57,11
+Pto-AvrRpt2_Col-0,Pto-AvrRpt2,Col-0,A58,12
+Pto-AvrRpt2_Col-0,Pto-AvrRpt2,Col-0,A59,13
+Pto-AvrRpt2_Col-0,Pto-AvrRpt2,Col-0,A66,14
+Pto-AvrRpt2_Col-0,Pto-AvrRpt2,Col-0,A71,15
+Pto-AvrRpt2_Col-0,Pto-AvrRpt2,Col-0,A74,16
+Pto-AvrRpt2_cyp79b2 cyp79b3,Pto-AvrRpt2,cyp79b2 cyp79b3,A25,1
+Pto-AvrRpt2_cyp79b2 cyp79b3,Pto-AvrRpt2,cyp79b2 cyp79b3,A26,2
+Pto-AvrRpt2_dde2-2 ein2-1,Pto-AvrRpt2,dde2-2 ein2-1,A13,1
+Pto-AvrRpt2_dde2-2 ein2-1,Pto-AvrRpt2,dde2-2 ein2-1,A15,2
+Pto-AvrRpt2_dde2-2 ein2-1,Pto-AvrRpt2,dde2-2 ein2-1,A44,3
+Pto-AvrRpt2_dde2-2 ein2-1 pad4-1 sid2-2,Pto-AvrRpt2,dde2-2 ein2-1 pad4-1 sid2-2,A13,1
+Pto-AvrRpt2_dde2-2 ein2-1 pad4-1 sid2-2,Pto-AvrRpt2,dde2-2 ein2-1 pad4-1 sid2-2,A15,2
+Pto-AvrRpt2_dde2-2 ein2-1 pad4-1 sid2-2,Pto-AvrRpt2,dde2-2 ein2-1 pad4-1 sid2-2,A44,3
+Pto-AvrRpt2_npr1-1,Pto-AvrRpt2,npr1-1,A13,1
+Pto-AvrRpt2_npr1-1,Pto-AvrRpt2,npr1-1,A15,2
+Pto-AvrRpt2_npr1-1,Pto-AvrRpt2,npr1-1,A44,3
+Pto-AvrRpt2_pad4-1,Pto-AvrRpt2,pad4-1,A14,1
+Pto-AvrRpt2_pad4-1,Pto-AvrRpt2,pad4-1,A17,2
+Pto-AvrRpt2_pad4-1,Pto-AvrRpt2,pad4-1,A42,3
+Pto-AvrRpt2_pad4-1,Pto-AvrRpt2,pad4-1,A66,4
+Pto-AvrRpt2_pad4-1 sid2-2,Pto-AvrRpt2,pad4-1 sid2-2,A14,1
+Pto-AvrRpt2_pad4-1 sid2-2,Pto-AvrRpt2,pad4-1 sid2-2,A17,2
+Pto-AvrRpt2_pad4-1 sid2-2,Pto-AvrRpt2,pad4-1 sid2-2,A66,3
+Pto-AvrRpt2_rpm1-3 rps2-101C,Pto-AvrRpt2,rpm1-3 rps2-101C,A47,1
+Pto-AvrRpt2_sid2-1 pmr4-1,Pto-AvrRpt2,sid2-1 pmr4-1,A25,1
+Pto-AvrRpt2_sid2-1 pmr4-1,Pto-AvrRpt2,sid2-1 pmr4-1,A26,2
+Pto-AvrRpt2_sid2-2,Pto-AvrRpt2,sid2-2,A14,1
+Pto-AvrRpt2_sid2-2,Pto-AvrRpt2,sid2-2,A17,2
+Pto-AvrRpt2_sid2-2,Pto-AvrRpt2,sid2-2,A42,3
+Pto-AvrRpt2_stp1 stp13,Pto-AvrRpt2,stp1 stp13,A71,1
+Pto-AvrRpt2_stp1 stp13,Pto-AvrRpt2,stp1 stp13,A74,2
+Pto-AvrRps4_Col-0,Pto-AvrRps4,Col-0,A57,1
+Pto-AvrRps4_Col-0,Pto-AvrRps4,Col-0,A59,2
+Pto-D36E_Col-0,Pto-D36E,Col-0,A57,1
+Pto-D36E_Col-0,Pto-D36E,Col-0,A58,2
+Pto-D36E_Col-0,Pto-D36E,Col-0,A59,3

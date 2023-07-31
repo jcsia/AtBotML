@@ -1,0 +1,1001 @@
+﻿GeneID,Cor,P-Value,Description,GO
+BCIN10G00480,0.596933034,0,surface SP1 [Botrytis cinerea T4],no GO terms
+BCIN05G06830,0.542291594,0,chitin binding [Botrytis cinerea 1],no GO terms
+BCIN06G02510,0.536614502,0,serine carboxypeptidase (secreted ) [Botrytis cinerea T4],P:proteolysis; F:serine-type carboxypeptidase activity
+BCIN12G02910,0.51627021,0,cellobiose dehydrogenase,F:oxidoreductase activity; F:ion binding
+BCIN12G06380,0.503474776,0,"BcBOT1, CND5p",F:oxidoreductase activity; F:ion binding
+BCIN06G00620,0.502866426,0,tripeptidyl peptidase a,F:peptidase activity
+BCIN15G03870,0.496585004,0,[Botrytis cinerea ],"P:carbohydrate metabolic process; C:extracellular region; F:hydrolase activity, acting on glycosyl bonds"
+BCIN09G01110,0.492608378,0,hypothetical protein BC1G_14702,"P:carbohydrate metabolic process; F:hydrolase activity, hydrolyzing O-glycosyl compounds; C:extracellular region; F:cellulose binding"
+BCIN06G04940,0.490482922,0,retinol dehydrogenase 8,no GO terms
+BCIN09G06750,0.488239916,0,glycoside hydrolase family 61,F:molecular_function
+BCIN01G05960,0.484280872,0,pth11-like integral membrane,C:cellular_component
+BCIN12G06430,0.484222096,0,"BcBOT7, short-chain dehydrogenase reductase SDR [Botrytis cinerea T4]",C:cellular_component
+BCIN12G01030,0.483403763,0,DUF1275 domain [Botrytis cinerea T4],C:cellular_component
+BCIN05G08330,0.480159567,0,carbohydrate esterase family 12 [Botrytis cinerea T4],F:molecular_function
+BCIN01G04580,0.48003197,0,hypothetical protein BofuT4_P163510,no GO terms
+BCIN08G05200,0.475266147,0,cytochrome p450 alkane hydroxylase,F:oxidoreductase activity; F:ion binding; C:cellular_component
+BCIN14G00850,0.472011904,0,endo-polygalacturonase precursor [Botrytis cinerea ],"P:carbohydrate metabolic process; P:cell wall organization or biogenesis; C:extracellular region; F:hydrolase activity, acting on glycosyl bonds"
+BCIN09G02640,0.471153382,0,glycoside hydrolase family 3 [Botrytis cinerea T4],"P:carbohydrate metabolic process; P:catabolic process; F:hydrolase activity, acting on glycosyl bonds"
+BCIN06G01060,0.470400355,0,hypothetical protein BC1G_01082 [Botrytis cinerea B050],C:cellular_component
+BCIN05G04960,0.46457507,0,nitrilase [Botrytis cinerea T4],"F:hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds; P:biological_process"
+BCIN08G02680,0.46085816,0,scp-like extracellular [Botrytis cinerea 1],no GO terms
+BCIN02G01580,0.460385445,0,CAIB BAIF family enzyme,F:molecular_function
+BCIN04G02970,0.457450699,0,chorismate synthase [Botrytis cinerea T4],P:aromatic amino acid family biosynthetic process; F:chorismate synthase activity; P:chorismate biosynthetic process
+BCIN02G00420,0.457300998,0,glycoside hydrolase family 3,"P:carbohydrate metabolic process; P:transmembrane transport; C:cellular_component; F:hydrolase activity, acting on glycosyl bonds"
+BCIN08G03320,0.456011458,0,extracellular conserved serine-rich [Botrytis cinerea 1],no GO terms
+BCIN06G02540,0.453751371,0,rpel repeat [Botrytis cinerea 1],no GO terms
+BCIN12G02040,0.450030443,0,aspartic protease precursor (secreted ) [Botrytis cinerea T4],F:peptidase activity
+BCIN08G03610,0.449515531,0,subunit IV of cytochrome c oxidase [Botrytis cinerea ],F:transmembrane transporter activity; F:oxidoreductase activity; C:mitochondrion
+BCIN16G02790,0.447632712,0,peptidase activity,F:peptidase activity
+BCIN10G05710,0.446592841,0,glycoside hydrolase family 32 [Botrytis cinerea T4],"P:carbohydrate metabolic process; F:hydrolase activity, acting on glycosyl bonds"
+BCIN03G04010,0.446421036,0,"endo-beta-1,4-glucanase precursor [Botrytis cinerea]",F:molecular_function
+BCIN12G01780,0.44582826,0,isopentenyl-diphosphate delta-isomerase [Botrytis cinerea 1],F:isopentenyl-diphosphate delta-isomerase activity; P:isoprenoid biosynthetic process; F:hydrolase activity
+BCIN12G06410,0.445313348,0,"BcBOT5,BCL5p","F:transferase activity, transferring acyl groups"
+BCIN12G06400,0.44476729,0,"BcBOT3,CND11p",F:oxidoreductase activity; F:ion binding; C:cellular_component
+BCIN02G03090,0.443326039,0,glycoside hydrolase family 1,"P:carbohydrate metabolic process; F:hydrolase activity, acting on glycosyl bonds"
+BCIN11G02730,0.442762901,0,CDP-alcohol phosphatidyltransferase [Botrytis cinerea ],no GO terms
+BCIN10G05700,0.440519393,0,[Botrytis cinerea ],no GO terms
+BCIN03G02510,0.438527061,0,hypothetical protein BC1G_06572,F:protein binding
+BCIN04G05820,0.436493536,0,R3H domain-containing [Botrytis cinerea T4],F:molecular_function
+BCIN09G04490,0.435796772,0,acid trehalase,P:carbohydrate metabolic process; F:catalytic activity; F:carbohydrate binding
+BCIN01G06210,0.435728954,0,putative carboxypeptidase protein,F:peptidase activity
+BCIN01G05970,0.435547103,0,hypothetical protein BofuT4_P045910,"F:transferase activity, transferring acyl groups"
+BCIN08G03320,0.435050275,0,extracellular conserved serine-rich [Botrytis cinerea 1],no GO terms
+BCIN10G02960,0.434519791,0,duf1295 domain,C:cellular_component
+BCIN02G06910,0.433100141,0,cell wall glucanase,"P:carbohydrate metabolic process; F:hydrolase activity, acting on glycosyl bonds"
+BCIN09G03850,0.431542344,0,putative transaldolase protein,P:small molecule metabolic process; P:carbohydrate metabolic process; P:cofactor metabolic process; P:cellular nitrogen compound metabolic process; F:molecular_function
+BCIN05G02520,0.431466489,0,glycoside hydrolase family 28 [Botrytis cinerea T4],"P:carbohydrate metabolic process; P:cell wall organization or biogenesis; C:extracellular region; F:hydrolase activity, acting on glycosyl bonds"
+BCIN15G04670,0.431464982,0,serine-type peptidase activity,P:proteolysis; F:serine-type peptidase activity; F:serine-type endopeptidase activity
+BCIN06G01600,0.430521563,0,glycosyl hydrolase family 43 [Botrytis cinerea 1],"P:carbohydrate metabolic process; F:hydrolase activity, acting on glycosyl bonds"
+BCIN12G03710,0.429586684,0,hypothetical protein BC1G_08717,F:protein binding
+BCIN15G03150,0.427190962,0,sedolisin [Botrytis cinerea T4],P:proteolysis; F:serine-type endopeptidase activity
+BCIN06G04500,0.426907635,0,BGALB_BOTFB ame: Full=Probable beta-galactosidase B ame: Full=Lactase B Flags: Precursor,"P:carbohydrate metabolic process; P:catabolic process; C:extracellular region; F:hydrolase activity, acting on glycosyl bonds"
+BCIN12G06390,0.426503744,0,"BcBOT2, BOT2_BOTFU, Calcineurin-dependent 15, Sesquiterpene cyclase BOT2",P:lipid metabolic process; F:ion binding; F:lyase activity; P:biosynthetic process
+BCIN02G09320,0.424778663,0,casein kinase substrate phospho pp28 [Botrytis cinerea 1],F:kinase activity
+BCIN16G01550,0.424328053,0,,no GO terms
+BCIN08G03300,0.424071853,0,hypothetical protein BofuT4_P132080 [Botrytis cinerea T4],no GO terms
+BCIN04G06730,0.423916625,0,[Botrytis cinerea ],no GO terms
+BCIN01G04580,0.423378605,0,hypothetical protein BofuT4_P163510,no GO terms
+BCIN12G06180,0.423295215,0,cyanide hydratase [Botrytis cinerea ],"F:hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds; P:nitrogen compound metabolic process"
+BCIN02G05300,0.422836064,0,major royal jelly [Botrytis cinerea T4],no GO terms
+BCIN03G06290,0.42061918,0,transcription factor CBF NF-Y [Botrytis cinerea T4],"C:CCAAT-binding factor complex; F:transcription factor activity, sequence-specific DNA binding; F:protein heterodimerization activity; P:regulation of transcription, DNA-templated"
+BCIN06G00024,0.420401661,0,zn-dependent hydrolases of the beta-lactamase,F:molecular_function
+BCIN12G06630,0.419250771,0,glycoside hydrolase family 45 [Botrytis cinerea T4],P:carbohydrate metabolic process; F:cellulase activity
+BCIN08G04020,0.419140755,0,glucose-methanol-choline oxidoreductase [Botrytis cinerea T4],F:oxidoreductase activity; F:ion binding
+BCIN11G01090,0.418619815,0,predicted protein,no GO terms
+BCIN12G00740,0.418173726,0,hypothetical protein BC1G_03502,no GO terms
+BCIN02G01590,0.418078781,0,hypothetical protein BofuT4_P108750,no GO terms
+BCIN07G04690,0.417332787,0,ATP synthase gamma chain [Botrytis cinerea T4],F:ATPase activity; P:small molecule metabolic process; F:transmembrane transporter activity; C:protein complex; P:cellular nitrogen compound metabolic process; P:biosynthetic process; C:intracellular
+BCIN14G05560,0.417310181,0,epoxide hydrolase,F:molecular_function
+BCIN06G02760,0.41622962,0,nipsnap family [Botrytis cinerea T4],no GO terms
+BCIN11G05710,0.415470564,0,oligosaccharyltransferase alpha subunit [Botrytis cinerea ],"F:transferase activity, transferring glycosyl groups; P:cellular protein modification process; C:endoplasmic reticulum; P:biosynthetic process"
+BCIN04G00600,0.41479289,0,phosphoribulokinase uridine kinase family [Botrytis cinerea T4],F:ion binding; F:kinase activity
+BCIN04G05410,0.41368922,0,peptide-n4-(n-acetyl-beta-glucosaminyl)asparagine amidase a [Botrytis cinerea 1],C:cellular_component
+BCIN06G02890,0.413662596,0,40S ribosomal S27,F:structural constituent of ribosome; C:intracellular ribonucleoprotein complex; C:cytosolic small ribosomal subunit; F:metal ion binding; P:ribosomal small subunit assembly; C:ribosome; C:intracellular; P:translation
+BCIN03G00480,0.41269858,0,"XY11A_BOTFU ame: Full=Endo-1,4-beta-xylanase 11A Short=Xylanase 11A ame: Full=1,4-beta-D-xylan xylanohydrolase 11A Flags: Precursor","P:carbohydrate metabolic process; P:catabolic process; P:cell wall organization or biogenesis; C:extracellular region; F:hydrolase activity, acting on glycosyl bonds"
+BCIN08G00720,0.411070956,0,pepsin [Botrytis cinerea T4],F:peptidase activity
+BCIN12G01020,0.409264997,0,oxaloacetate [Botrytis cinerea 1],F:catalytic activity; P:metabolic process
+BCIN11G05700,0.407226951,0,hexokinase [Botrytis cinerea ],F:glucose binding; C:cell; F:ATP binding; P:cellular glucose homeostasis; P:glycolytic process; F:hexokinase activity; P:carbohydrate phosphorylation
+BCIN10G03090,0.406982807,0,,F:pyridoxal phosphate binding; F:catalytic activity; P:metabolic process; P:tetrapyrrole biosynthetic process; P:biosynthetic process; F:5-aminolevulinate synthase activity; F:transferase activity
+BCIN12G01440,0.40601628,0,MFS sugar transporter,F:substrate-specific transmembrane transporter activity; P:transmembrane transport; C:integral component of membrane; P:carbohydrate transport
+BCIN13G00300,0.404083728,0,hypothetical protein BcDW1_977,no GO terms
+BCIN14G04210,0.403208127,0,hypothetical protein BC1G_13574,no GO terms
+BCIN04G05580,0.402641473,0,GPI anchored dioxygenase [Botrytis cinerea T4],F:oxidoreductase activity; F:ion binding
+BCIN02G04230,0.401659875,0,hypothetical protein BcDW1_4078,no GO terms
+BCIN12G00300,0.401001792,0,glycoside hydrolase family 35 [Botrytis cinerea T4],"P:carbohydrate metabolic process; F:hydrolase activity, hydrolyzing O-glycosyl compounds"
+BCIN11G00080,0.400396457,0,hypothetical protein BC1G_09686,F:hydrolase activity
+BCIN05G06140,0.400382893,0,RGS domain (Rax1) [Botrytis cinerea T4],C:cellular_component
+BCIN03G03310,0.399901639,0,ndt80 like dna-binding family [Botrytis cinerea 1],F:DNA binding; F:nucleic acid binding transcription factor activity; P:cellular nitrogen compound metabolic process; P:biosynthetic process
+BCIN02G07410,0.399785093,0,,F:binding
+BCIN12G06420,0.399367638,0,"BcBOT6, transcription factor cys6",C:nucleus; F:nucleic acid binding transcription factor activity; F:ion binding; P:cellular nitrogen compound metabolic process; P:biosynthetic process
+BCIN02G06940,0.399268172,0,beta-1-3-glucanosyltransferase [Botrytis cinerea ],P:carbohydrate metabolic process; C:plasma membrane; F:molecular_function
+BCIN01G10530,0.398887389,0,hypothetical protein BC1G_05244,no GO terms
+BCIN04G05790,0.398798472,0,mitochondrial 54S ribosomal 8 [Botrytis cinerea ],F:structural constituent of ribosome; C:ribosome; P:translation
+BCIN12G06370,0.398713072,0,"BcBOT4, BCL4p",F:oxidoreductase activity; F:ion binding; C:cellular_component
+BCIN11G03940,0.398112258,0,,no GO terms
+BCIN05G01750,0.397940453,0,putative nima-interacting protein,no GO terms
+BCIN03G02320,0.397646577,0,EIF3L_BOTFB ame: Full=Eukaryotic translation initiation factor 3 subunit L Short=eIF3l,F:translation initiation factor activity; P:formation of translation preinitiation complex; C:eukaryotic 43S preinitiation complex; C:integral component of membrane; C:eukaryotic 48S preinitiation complex; P:regulation of translational initiation; C:eukaryotic translation initiation factor 3 complex
+BCIN01G03820,0.397107552,0,cell wall glucanase,P:carbohydrate metabolic process
+BCIN16G00180,0.396726768,0,[Sclerotinia sclerotiorum 1980],C:cellular_component
+BCIN03G06290,0.396523818,0,transcription factor CBF NF-Y [Botrytis cinerea T4],C:nucleus; F:nucleic acid binding transcription factor activity; C:protein complex; P:cellular nitrogen compound metabolic process; P:biosynthetic process
+BCIN10G02280,0.396493676,0,putative glycogenin protein,"F:transferase activity, transferring glycosyl groups"
+BCIN01G02420,0.396328905,0,glycylpeptide N-tetradecanoyltransferase [Botrytis cinerea T4],"F:transferase activity, transferring acyl groups; P:cellular protein modification process; P:biosynthetic process"
+BCIN03G05230,0.396212861,0,MFS multidrug transporter [Botrytis cinerea T4],P:transmembrane transport; C:integral component of membrane
+BCIN11G02280,0.396175687,0,glycoside hydrolase family 5 [Botrytis cinerea T4],"P:carbohydrate metabolic process; F:hydrolase activity, hydrolyzing O-glycosyl compounds"
+BCIN07G03980,0.395512581,0,hypothetical protein BofuT4P90000026001,no GO terms
+BCIN05G03680,0.39409896,0,[Botrytis cinerea ],no GO terms
+BCIN04G01460,0.393518742,0,cAMP-regulated phospho family Igo1 [Botrytis cinerea T4],no GO terms
+BCIN06G01020,0.393368036,0,WD repeat,F:protein binding
+BCIN09G01650,0.393011365,0,ankyrin repeat and btb poz domain [Botrytis cinerea 1],F:protein binding
+BCIN07G02220,0.392763203,0,,"F:ATPase activity; F:ATP binding; F:ATPase activity, coupled to transmembrane movement of substances; C:membrane; C:integral component of membrane; P:transport"
+BCIN02G01680,0.392455763,0,,"F:transferase activity, transferring acyl groups; F:oxidoreductase activity; F:catalytic activity; P:metabolic process; P:oxidation-reduction process; F:phosphopantetheine binding"
+BCIN07G01290,0.391732877,0,heat shock Hsp88 [Botrytis cinerea T4],F:nucleotide binding; F:ATP binding
+BCIN04G01310,0.391317933,0,gpi-anchored cell wall organization ecm33 [Botrytis cinerea 1],no GO terms
+BCIN06G00026,0.391297839,0,riboflavin transporter mch5,P:transmembrane transport; C:cellular_component
+BCIN08G00350,0.391243083,0,hypothetical protein BcDW1_5912,no IPS match
+BCIN03G02310,0.391082832,0,importin alpha re-exporter [Botrytis cinerea T4],F:protein binding; P:intracellular protein transport; F:binding; F:Ran GTPase binding
+BCIN03G07370,0.390950713,0,hypothetical protein BC1G_11688 [Botrytis cinerea B050],C:membrane; C:integral component of membrane
+BCIN04G06650,0.390642268,0,hypothetical protein BofuT4P3000025001 [Botrytis cinerea T4],no GO terms
+BCIN12G00280,0.390445848,0,phosphoserine phosphatase,F:phosphatase activity
+BCIN15G03120,0.39032227,0,farnesyl diphosphate synthase [Botrytis cinerea],P:isoprenoid biosynthetic process; F:transferase activity
+BCIN10G05590,0.389555176,0,glycoside hydrolase family 3 [Botrytis cinerea T4],"P:carbohydrate metabolic process; F:hydrolase activity, acting on glycosyl bonds"
+BCIN13G00990,0.389185445,0,vhs domain-containing,F:ion binding; P:transport; C:intracellular
+BCIN03G03460,0.387891886,0,hypothetical protein BC1G_00571,P:transmembrane transport; C:integral component of membrane
+BCIN02G07420,0.386653083,0,cbs domain containing [Botrytis cinerea 1],P:chromosome organization; P:chromosome segregation; P:mitotic nuclear division; P:mitotic cell cycle; P:response to stress
+BCIN09G01790,0.385941249,0,[Botrytis cinerea ],no IPS match
+BCIN04G04080,0.385558456,0,hypothetical protein BofuT4_P095450,C:cellular_component
+BCIN13G05810,0.384576356,0,aldehyde dehydrogenase [Botrytis cinerea T4],F:oxidoreductase activity
+BCIN11G06370,0.384490956,0,hypothetical protein BC1G_12871,no GO terms
+BCIN06G05180,0.3843297,0,hypothetical protein BofuT4_P141560,F:binding
+BCIN03G05820,0.382748795,0,pectate lyase a [Botrytis cinerea 1],P:polysaccharide catabolic process; F:lyase activity; C:extracellular region
+BCIN07G01290,0.38146026,0,Heat shock Hsp88,C:nucleus; F:ion binding; C:cytosol
+BCIN04G01150,0.380635396,0,dolichyl-diphosphooligosaccharide- glycotransferase [Botrytis cinerea 1],C:cellular_component; F:molecular_function
+BCIN03G00900,0.380582649,0,hypothetical protein BC1G_02113,C:integral component of membrane
+BCIN12G04570,0.379889402,0,phosphomevalonate kinase,F:ion binding; F:kinase activity
+BCIN04G06230,0.379583469,0,"Bcfhg1, Detoxification of nitric oxide; oxidoreductase FAD NAD(P)-binding domain [Botrytis cinerea T4]",F:oxidoreductase activity
+BCIN10G04620,0.379404631,0,F-box WD repeat-containing 1A [Botrytis cinerea T4],F:protein binding
+BCIN10G03240,0.37935942,0,KH domain RNA-binding [Botrytis cinerea T4],F:RNA binding
+BCIN02G01660,0.379321743,0,amino acid transporter [Botrytis cinerea T4],C:cellular_component
+BCIN02G01560,0.379123314,0,benzoylformate decarboxylase [Botrytis cinerea 1],no GO terms
+BCIN07G01720,0.378838479,0,dipeptidyl-peptidase V (secreted ),F:peptidase activity
+BCIN13G04510,0.378479799,0,5 -3 exoribonuclease 2,"F:nucleic acid binding; C:nucleus; F:5'-3' exoribonuclease activity; P:RNA phosphodiester bond hydrolysis, exonucleolytic; F:zinc ion binding"
+BCIN05G00830,0.378210538,0,mitochondrial inner membrane 1 [Botrytis cinerea],C:integral component of membrane
+BCIN02G07100,0.377983475,0,carbohydrate esterase family 12 [Botrytis cinerea T4],no GO terms
+BCIN09G02350,0.377901591,0,serine carboxypeptidase ( ) (secreted ) [Botrytis cinerea T4],F:peptidase activity
+BCIN05G02410,0.377893051,0,choline dehydrogenase,"F:oxidoreductase activity, acting on CH-OH group of donors; F:flavin adenine dinucleotide binding; P:oxidation-reduction process"
+BCIN02G00960,0.377590132,0,mgs207 [Botrytis cinerea 1],no GO terms
+BCIN07G06380,0.376774311,0,---NA---,no GO terms
+BCIN06G05570,0.376644704,0,predicted protein,no GO terms
+BCIN02G06500,0.376510576,0,EIF3K_BOTFB ame: Full=Eukaryotic translation initiation factor 3 subunit K Short=eIF3k ame: Full=eIF-3 p25,F:translation initiation factor activity; P:formation of translation preinitiation complex; F:RNA binding; C:cytoplasm; C:eukaryotic 43S preinitiation complex; F:ribosome binding; C:eukaryotic 48S preinitiation complex; P:regulation of translational initiation; P:translational initiation; C:eukaryotic translation initiation factor 3 complex; P:translation
+BCIN11G00370,0.376073528,0,pre-mRNA splicing factor [Botrytis cinerea ],F:molecular_function
+BCIN01G00740,0.375885146,0,hypothetical protein BC1G_14342,no GO terms
+BCIN09G06520,0.375833906,0,phosphoglycerate mutase family [Botrytis cinerea T4],no GO terms
+BCIN06G05670,0.375737957,0,hypothetical protein BC1G_02230,F:FAD binding; F:oxidoreductase activity; P:oxidation-reduction process
+BCIN03G09210,0.374349955,0,"carboxy-cis,cis-muconate cyclase [Botrytis cinerea T4]",F:protein binding
+BCIN07G03280,0.374167601,0,gdsl lipase acylhydrolase family,F:molecular_function
+BCIN06G02380,0.372516367,0,"UDP-4-keto-6-deoxyglucose-3,5-epimerase -4-reductase [Botrytis cinerea]",no GO terms
+BCIN06G01490,0.371647296,0,MFS multidrug transporter [Botrytis cinerea T4],P:transmembrane transport; C:cellular_component
+BCIN14G05510,0.371285099,0,glycoside hydrolase family 62 [Botrytis cinerea T4],P:L-arabinose metabolic process; F:alpha-L-arabinofuranosidase activity; F:hydrolase activity
+BCIN05G06280,0.37113791,0,nadp-dependent leukotriene b4 12-hydroxydehydrogenase,F:zinc ion binding; F:oxidoreductase activity; P:oxidation-reduction process
+BCIN14G01070,0.370631538,0,alcohol dehydrogenase groes domain [Botrytis cinerea T4],F:zinc ion binding; F:oxidoreductase activity; P:oxidation-reduction process
+BCIN05G02590,0.369809689,0,,F:histone deacetylase activity; P:histone deacetylation
+BCIN03G02370,0.369787083,0,membrane biogenesis Yop1 [Botrytis cinerea T4],C:cellular_component
+BCIN08G00280,0.369187776,0,carboxypeptidase S1 (secreted ) [Botrytis cinerea T4],F:peptidase activity
+BCIN11G02240,0.369051136,0,glycerol-3-phosphate phosphatase [Botrytis cinerea T4],P:biological_process; F:molecular_function
+BCIN10G06100,0.36890043,0,mfs allantoate,no GO terms
+BCIN08G04540,0.368371452,0,pyruvate dehydrogenase E1 component beta subunit [Botrytis cinerea ],P:small molecule metabolic process; P:sulfur compound metabolic process; F:oxidoreductase activity; P:cofactor metabolic process; P:biosynthetic process
+BCIN12G06120,0.367987654,0,hypothetical protein BofuT4_P068250 [Botrytis cinerea T4],no GO terms
+BCIN10G03900,0.367167312,0,hypothetical protein BcDW1_1614,no GO terms
+BCIN02G08790,0.367109541,0,[Botrytis cinerea ],F:oxidoreductase activity
+BCIN13G00770,0.366805618,0,epoxide hydrolase [Botrytis cinerea ],F:molecular_function
+BCIN04G06830,0.366740814,0,,no GO terms
+BCIN04G05810,0.366227912,0,Poh1 peptidase [Botrytis cinerea T4],F:translation initiation factor activity; P:formation of translation preinitiation complex; C:eukaryotic 43S preinitiation complex; C:eukaryotic 48S preinitiation complex; P:regulation of translational initiation; C:eukaryotic translation initiation factor 3 complex
+BCIN02G08820,0.365910927,0,amino acid transporter [Botrytis cinerea T4],C:membrane; C:integral component of membrane; F:amino acid transmembrane transporter activity; P:amino acid transmembrane transport
+BCIN03G05500,0.365390991,0,DUF1264 domain,no GO terms
+BCIN06G01510,0.365346282,0,glycosyltransferase family 17 [Botrytis cinerea T4],"F:transferase activity, transferring glycosyl groups; P:cellular protein modification process; P:biosynthetic process; C:cellular_component"
+BCIN07G01990,0.365273943,0,hypothetical protein BC1G_02838,F:oxidoreductase activity; P:oxidation-reduction process
+BCIN10G04330,0.364971024,0,,P:proteolysis; F:serine-type carboxypeptidase activity
+BCIN05G00620,0.364958968,0,hypothetical protein BofuT4_P148060,no GO terms
+BCIN16G00230,0.364891653,0,aldo keto reductase [Botrytis cinerea T4],no GO terms
+BCIN10G05400,0.364133099,0,phosphatase PP2A regulatory subunit A [Botrytis cinerea T4],F:binding
+BCIN11G06440,0.363904026,0,glycoside hydrolase family 31 [Botrytis cinerea 1],"P:carbohydrate metabolic process; F:hydrolase activity, acting on glycosyl bonds"
+BCIN15G02380,0.363708109,0,acid protease,F:aspartic-type endopeptidase activity; P:proteolysis
+BCIN01G11270,0.363707104,0,aryl-alcohol dehydrogenase [Botrytis cinerea T4],no GO terms
+BCIN03G03830,0.36355891,0,pectin methylesterase [Botrytis cinerea],P:carbohydrate metabolic process; P:catabolic process; C:cell wall; P:cell wall organization or biogenesis; C:extracellular region; F:molecular_function
+BCIN15G01330,0.363277592,0,similar to protein phosphatase,F:protein tyrosine phosphatase activity; P:peptidyl-tyrosine dephosphorylation
+BCIN14G02020,0.363152506,0,small nucleolar ribonucleo SNU13 [Botrytis cinerea ],"C:box C/D snoRNP complex; C:small-subunit processome; F:RNA binding; P:maturation of LSU-rRNA; P:maturation of SSU-rRNA; C:precatalytic spliceosome; C:U4/U6 x U5 tri-snRNP complex; C:viral nucleocapsid; C:cytosolic large ribosomal subunit; P:mRNA splicing, via spliceosome; P:translation"
+BCIN04G01680,0.362913889,0,iron sulfur cluster assembly 1 [Botrytis cinerea T4],P:sulfur compound metabolic process; C:mitochondrion; P:cofactor metabolic process; P:cellular component assembly; F:ion binding; P:biosynthetic process
+BCIN08G01730,0.362343216,0,hypothetical protein BofuT4_P044010 [Botrytis cinerea T4],no GO terms
+BCIN03G02710,0.362291976,0,glycoside hydrolase family 27 [Botrytis cinerea T4],"P:carbohydrate metabolic process; F:hydrolase activity, acting on glycosyl bonds"
+BCIN09G01150,0.362234707,0,carbohydrate-binding module family 1 [Botrytis cinerea 1],"P:carbohydrate metabolic process; C:extracellular region; F:hydrolase activity, acting on glycosyl bonds"
+BCIN06G03060,0.362199543,0,glutathione S-transferase pi [Botrytis cinerea T4],F:molecular_function
+BCIN03G04150,0.362114645,0,similar to hydrolase,C:cellular_component
+BCIN05G01000,0.36202171,0,hypothetical protein BC1G_09422,"F:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen; F:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen; F:iron ion binding; P:oxidation-reduction process; F:monooxygenase activity; F:heme binding"
+BCIN02G02320,0.361945854,0,oxidoreductase domain containing [Botrytis cinerea T4],F:oxidoreductase activity
+BCIN03G04280,0.361685636,0,mboat family [Botrytis cinerea 1],C:cellular_component
+BCIN02G04310,0.361167207,0,c6 zinc finger domain-containing,C:nucleus; F:nucleic acid binding transcription factor activity; F:ion binding; P:cellular nitrogen compound metabolic process; P:biosynthetic process
+BCIN02G04920,0.360265484,0,ubiquitin-conjugating enzyme E2-16 kDa [Botrytis cinerea ],F:nucleotide binding; F:ATP binding
+BCIN08G01650,0.360257948,0,hypothetical protein BC1G_07890,F:nucleic acid binding
+BCIN10G00940,0.360077101,0,regulator of chromosome condensation [Botrytis cinerea 1],no GO terms
+BCIN13G01860,0.359825925,0,hypothetical protein BofuT4_P125460 [Botrytis cinerea T4],C:cellular_component
+BCIN07G02010,0.359719426,0,lsm14a [Botrytis cinerea 1],no GO terms
+BCIN01G03400,0.359675219,0,MFS multidrug transporter,P:transmembrane transport; C:cellular_component
+BCIN03G05060,0.359630509,0,carbohydrate esterase family 8 [Botrytis cinerea T4],P:carbohydrate metabolic process; P:catabolic process; C:cell wall; P:cell wall organization or biogenesis; C:extracellular region; F:molecular_function
+BCIN05G01360,0.359584293,0,oxoglutarate dehydrogenase,"F:thiamine pyrophosphate binding; F:oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor; F:oxoglutarate dehydrogenase (succinyl-transferring) activity; P:metabolic process; P:tricarboxylic acid cycle; P:oxidation-reduction process"
+BCIN02G09250,0.359393399,0,ammecr1 family [Botrytis cinerea 1],no GO terms
+BCIN02G03950,0.359214561,0,UBX domain-containing [Botrytis cinerea T4],F:protein binding
+BCIN12G06460,0.358643386,0,dienelactone hydrolase family [Botrytis cinerea T4],F:hydrolase activity
+BCIN13G00050,0.358432397,0,surface sp1 [Botrytis cinerea 1],no GO terms
+BCIN02G07890,0.358346495,0,[Botrytis cinerea ],no GO terms
+BCIN10G06130,0.357418147,0,exo-rhamnogalacturonase b [Botrytis cinerea 1],"P:carbohydrate metabolic process; P:cell wall organization or biogenesis; C:extracellular region; F:hydrolase activity, acting on glycosyl bonds"
+BCIN06G06580,0.357135824,0,alpha-l-rhamnosidase [Botrytis cinerea 1],F:molecular_function
+BCIN12G01490,0.356923831,0,hypothetical protein BofuT4_P133490 [Botrytis cinerea T4],no GO terms
+BCIN12G06190,0.356497836,0,hypothetical protein BofuT4_P068350,no GO terms
+BCIN09G02670,0.356472718,0,ATP synthase subunit O [Botrytis cinerea T4],F:ATPase activity; P:small molecule metabolic process; F:transmembrane transporter activity; P:cellular nitrogen compound metabolic process; P:biosynthetic process; C:cellular_component
+BCIN12G04220,0.356320003,0,COPI-coated vesicle [Botrytis cinerea T4],C:cellular_component
+BCIN02G02910,0.356143175,0,fggy-family carbohydrate kinase,"P:carbohydrate metabolic process; P:phosphorylation; F:phosphotransferase activity, alcohol group as acceptor; F:kinase activity"
+BCIN06G03070,0.356015075,0,hypothetical protein BC1G_05765,P:proteolysis; F:serine-type peptidase activity; F:serine-type endopeptidase activity
+BCIN09G00460,0.355778969,0,ABC transporter substrate binding,no GO terms
+BCIN14G02680,0.355721198,0,40S ribosomal S24 [Botrytis cinerea ],F:nucleotide binding; F:structural constituent of ribosome; C:ribosome; P:translation
+BCIN10G03770,0.355642831,0,histidine acid phosphatase [Botrytis cinerea T4],F:phosphatase activity
+BCIN08G01340,0.355289677,0,hypothetical protein BofuT4_P009740,F:RNA binding; F:ion binding
+BCIN04G06210,0.355288672,0,,"C:nucleus; F:zinc ion binding; P:regulation of transcription, DNA-templated; F:RNA polymerase II transcription factor activity, sequence-specific DNA binding"
+BCIN15G04350,0.355128924,0,hypothetical protein BC1G_14544,"F:iron ion binding; F:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen; P:oxidation-reduction process; F:heme binding"
+BCIN04G05420,0.354948579,0,hypothetical protein BcDW1_10277,no IPS match
+BCIN01G01980,0.354646665,0,hypothetical protein SBOR_9948,no GO terms
+BCIN09G05490,0.35407348,0,methyltransferase domain-containing [Botrytis cinerea T4],F:methyltransferase activity
+BCIN03G08130,0.353134582,0,catechol dioxygenase [Botrytis cinerea T4],F:oxidoreductase activity; F:ion binding
+BCIN10G05230,0.352815588,0,,F:pyridoxal phosphate binding; F:4-aminobutyrate transaminase activity; F:catalytic activity; F:transaminase activity; P:gamma-aminobutyric acid metabolic process
+BCIN02G01760,0.352437819,0,,P:'de novo' IMP biosynthetic process; F:phosphoribosylformylglycinamidine synthase activity
+BCIN16G03180,0.352212765,0,acyl- dehydrogenase domain [Botrytis cinerea T4],F:oxidoreductase activity; F:ion binding
+BCIN05G08230,0.352082153,0,glycoside hydrolase family 61,F:molecular_function
+BCIN03G07250,0.351994241,0,cullin binding [Botrytis cinerea 1],F:binding
+BCIN08G03820,0.351571762,0,polysaccharide lyase family 1 [Botrytis cinerea T4],P:carbohydrate metabolic process; P:catabolic process; F:lyase activity; C:extracellular region
+BCIN14G00760,0.351309032,0,acid phosphatase [Botrytis cinerea T4],F:molecular_function
+BCIN13G02640,0.351192486,0,rhamnogalacturonase b,"P:carbohydrate metabolic process; F:hydrolase activity, acting on glycosyl bonds"
+BCIN01G08780,0.351095029,0,phospho-2-dehydro-3-deoxyheptonate aldolase [Botrytis cinerea T4],P:aromatic amino acid family biosynthetic process; F:catalytic activity; F:3-deoxy-7-phosphoheptulonate synthase activity; P:chorismate biosynthetic process; P:cellular amino acid biosynthetic process; P:biosynthetic process; F:transferase activity
+BCIN01G02690,0.350913177,0,extracelular serine carboxypeptidase,F:peptidase activity
+BCIN03G07180,0.350910666,0,[Botrytis cinerea ],F:oxidoreductase activity
+BCIN06G06800,0.350796631,0,er big1 [Botrytis cinerea 1],C:cellular_component
+BCIN09G01390,0.350137042,0,small nucleolar ribonucleo complex subunit [Botrytis cinerea 1],P:ribosome biogenesis; P:cellular nitrogen compound metabolic process; C:nucleolus
+BCIN12G02160,0.350091328,0,hypothetical protein BC1G_03094,F:NEDD8 activating enzyme activity; P:protein neddylation; F:small protein activating enzyme activity
+BCIN12G00710,0.350086807,0,hypothetical protein BC1G_03506,F:oxidoreductase activity; P:oxidation-reduction process
+BCIN02G06870,0.350036571,0,putative transmembrane protein,C:cellular_component
+BCIN12G00290,0.349569885,0,mitochondrion biogenesis (She9),C:cellular_component
+BCIN12G03880,0.349329258,0,serine threonine phosphatase PP2A-2 catalytic subunit [Botrytis cinerea ],F:phosphatase activity; P:cellular protein modification process
+BCIN12G05790,0.349150923,0,pi31 proteasome regulator [Botrytis cinerea 1],C:protein complex; C:intracellular
+BCIN05G06430,0.348845492,0,hypothetical protein BofuT4_P134770,"P:metabolic process; P:'de novo' IMP biosynthetic process; P:biosynthetic process; F:amino acid binding; F:hydroxymethyl-, formyl- and related transferase activity; F:formyltetrahydrofolate deformylase activity"
+BCIN05G03580,0.348730956,0,scytalidoglutamic peptidase [Botrytis cinerea 1],F:peptidase activity
+BCIN06G07340,0.348619936,0,hypothetical protein BC1G_14226,
+BCIN03G00620,0.348179372,0,,F:protein binding
+BCIN16G02870,0.348177363,0,,no GO terms
+BCIN09G04000,0.348150738,0,transcription factor C2H2,F:ion binding
+BCIN12G04860,0.348052779,0,,F:ATP binding; F:aspartate carbamoyltransferase activity; P:'de novo' pyrimidine nucleobase biosynthetic process; P:nitrogen compound metabolic process; F:metal ion binding; P:glutamine metabolic process; P:cellular amino acid metabolic process; F:carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity; F:amino acid binding; F:carboxyl- or carbamoyltransferase activity
+BCIN04G04500,0.348012591,0,outer mitochondrial membrane porin [Botrytis cinerea ],F:voltage-gated anion channel activity; P:regulation of anion transmembrane transport; P:transmembrane transport; C:mitochondrial outer membrane; P:anion transport
+BCIN02G07770,0.347855857,0,"Bcnep2, necrosis- and ethylene-inducing 2 precursor [Botrytis cinerea ]",no GO terms
+BCIN11G04280,0.347832246,0,hypothetical protein BC1G_03359 [Botrytis cinerea B050],no GO terms
+BCIN12G00330,0.346499504,0,topoisomerase II-associated PAT1 [Botrytis cinerea T4],F:isomerase activity
+BCIN04G04930,0.346153885,0,endopolygalacturonase [Botrytis cinerea],"P:carbohydrate metabolic process; P:cell wall organization or biogenesis; C:extracellular region; F:hydrolase activity, acting on glycosyl bonds"
+BCIN04G01920,0.345813792,0,hypothetical protein BC1G_14191 [Botrytis cinerea B050],no GO terms
+BCIN10G04300,0.345673133,0,40S ribosomal S18,F:RNA binding; F:structural constituent of ribosome; C:cytosol; P:ribosome biogenesis; C:ribosome; P:translation
+BCIN03G01130,0.345638471,0,,F:oxidoreductase activity
+BCIN10G00950,0.345501328,0,hypothetical protein BC1G_05145,F:catalytic activity
+BCIN09G05740,0.345440544,0,feruloyl esterase b,F:molecular_function
+BCIN05G00220,0.345402867,0,,no GO terms
+BCIN15G04970,0.345357655,0,glucose-6-phosphate isomerase,F:glucose-6-phosphate isomerase activity; P:gluconeogenesis; P:glycolytic process
+BCIN02G01810,0.344939195,0,benzodiazepine receptor family [Botrytis cinerea T4],C:cellular_component
+BCIN05G05580,0.34486334,0,ribose-phosphate pyrophosphokinase [Botrytis cinerea T4],P:small molecule metabolic process; F:ion binding; P:cellular nitrogen compound metabolic process; P:biosynthetic process; F:kinase activity
+BCIN13G05560,0.344742273,0,actin cytoskeleton organization (Cro1) [Botrytis cinerea T4],F:binding
+BCIN12G01940,0.343991255,0,hypothetical protein BofuT4_P133900,C:nucleus; C:cytoplasm; F:oxidoreductase activity; F:ion binding; P:cellular protein modification process; P:biosynthetic process
+BCIN05G06150,0.343982715,0,hypothetical protein BC1G_01764,F:protein binding
+BCIN06G01690,0.34380438,0,glycoside hydrolase family 36,F:molecular_function
+BCIN10G01020,0.343767708,0,small secreted [Botrytis cinerea 1],no GO terms
+BCIN03G07320,0.343735055,0,ribonuclease T2 [Botrytis cinerea T4],F:RNA binding; F:nuclease activity
+BCIN14G05330,0.343649655,0,gpi anchored [Botrytis cinerea 1],F:oxidoreductase activity; F:ion binding
+BCIN08G01040,0.343236218,0,zinc finger dhhc domain containing [Botrytis cinerea 1],no GO terms
+BCIN01G03710,0.343212106,0,siderophore biosynthesis acetylase [Botrytis cinerea T4],no GO terms
+BCIN04G03620,0.343171415,0,hypothetical protein BofuT4_P096150,F:RNA binding; F:nuclease activity
+BCIN01G08220,0.342790631,0,oxidoreductase [Botrytis cinerea T4],F:oxidoreductase activity; F:ion binding
+BCIN06G02930,0.342714776,0,hypothetical protein BofuT4_P110500,no GO terms
+BCIN10G03930,0.342644447,0,serine threonine phosphatase,F:phosphoprotein phosphatase activity; F:metal ion binding; P:protein dephosphorylation
+BCIN06G02310,0.342030069,0,hypothetical protein BC1G_01261,no GO terms
+BCIN02G06380,0.34185525,0,fatty acid desaturase [Botrytis cinerea T4],F:oxidoreductase activity; P:lipid metabolic process; C:cellular_component
+BCIN07G02610,0.341700023,0,6-phosphogluconate dehydrogenase,P:small molecule metabolic process; F:oxidoreductase activity; P:cofactor metabolic process; P:cellular nitrogen compound metabolic process
+BCIN02G05100,0.341640745,0,copper amine oxidase [Botrytis cinerea T4],F:oxidoreductase activity; F:ion binding
+BCIN11G04790,0.341516162,0,aldehyde reductase,F:oxidoreductase activity; P:oxidation-reduction process
+BCIN02G01720,0.341493556,0,phospholipase [Botrytis cinerea T4],F:molecular_function
+BCIN05G07120,0.341474466,0,short-chain dehydrogenase reductase SDR [Botrytis cinerea T4],F:oxidoreductase activity
+BCIN03G06340,0.341312709,0,hypothetical protein BC1G_06115 [Botrytis cinerea B050],no GO terms
+BCIN08G01110,0.341228816,0,woronin body major,"F:translation factor activity, RNA binding"
+BCIN01G00530,0.339902604,0,hypothetical protein BcDW1_1467,F:protein binding
+BCIN14G02830,0.339775006,0,60S ribosomal L3 [Botrytis cinerea ],F:structural constituent of ribosome; C:ribosome; P:translation
+BCIN03G00770,0.339684583,0,hypothetical protein BC1G_02113,no GO terms
+BCIN04G06830,0.339566027,0,,no GO terms
+BCIN03G05120,0.338757239,0,hypothetical protein BC1G_00810 [Botrytis cinerea B050],F:protein kinase binding; P:regulation of cell cycle; P:regulation of cyclin-dependent protein serine/threonine kinase activity
+BCIN13G04470,0.338158434,0,,F:nucleic acid binding
+BCIN13G00250,0.338067508,0,peroxisomal adenine nucleotide transporter 1 [Botrytis cinerea 1],C:cellular_component; P:transport
+BCIN05G08380,0.337999188,0,hypothetical protein BcDW1_8583,no GO terms
+BCIN04G01780,0.337895201,0,acetyl- hydrolase [Botrytis cinerea ],P:sulfur compound metabolic process; P:cofactor metabolic process; F:molecular_function
+BCIN04G01630,0.33765156,0,regulatory subunit of the PKA [Botrytis cinerea],F:ion binding; P:cellular protein modification process; F:enzyme regulator activity; F:kinase activity; C:intracellular
+BCIN03G01980,0.337000008,0,fungal specific transcription factor,C:nucleus; F:DNA binding; F:ion binding; P:cellular nitrogen compound metabolic process; P:biosynthetic process
+BCIN03G04500,0.33685734,0,ser arg-related nuclear matrix [Botrytis cinerea 1],no GO terms
+BCIN14G03880,0.336797057,0,hypothetical protein BcDW1_2212,no GO terms
+BCIN10G01380,0.336707639,0,hypothetical protein BC1G_05092,F:nucleic acid binding; P:transport; C:intracellular
+BCIN07G01700,0.33654136,0,hypothetical protein BC1G_15665,F:nucleic acid binding; P:mRNA 3'-end processing
+BCIN10G04100,0.336493134,0,methyltransferase family [Botrytis cinerea T4],F:methyltransferase activity
+BCIN05G06510,0.336370057,0,cellobiose dehydrogenase [Botrytis cinerea T4],F:oxidoreductase activity; F:ion binding
+BCIN02G04170,0.336273103,0,ATP synthase subunit mitochondrial precursor [Botrytis cinerea ],P:small molecule metabolic process; F:transmembrane transporter activity; C:mitochondrion; C:protein complex; P:cellular nitrogen compound metabolic process; P:biosynthetic process
+BCIN05G00090,0.335976715,0,DED1_BOTFB ame: Full=ATP-dependent RNA helicase ded1,F:translation initiation factor activity; F:ATP binding; C:cytoplasm; F:helicase activity; P:translational initiation
+BCIN02G04320,0.335963654,0,hypothetical protein BcDW1_4718,no GO terms
+BCIN11G03740,0.334951915,0,translation initiation factor rli1,"F:ATPase activity; F:ion binding; F:translation factor activity, RNA binding"
+BCIN02G05870,0.334771068,0,zinc-binding alcohol dehydrogenase [Botrytis cinerea T4],F:oxidoreductase activity; F:ion binding
+BCIN11G04900,0.334639451,0,amino acid,C:cellular_component
+BCIN04G05950,0.334306893,0,[Botrytis cinerea ],no GO terms
+BCIN01G09570,0.334305386,0,hypothetical protein BofuT4_P014580,F:nucleotide binding; F:RNA binding
+BCIN01G03730,0.333974838,0,Bcnrps6,F:catalytic activity; P:metabolic process; F:phosphopantetheine binding
+BCIN16G01410,0.333903504,0,benzoate 4-monooxygenase cytochrome p450,F:oxidoreductase activity; F:ion binding
+BCIN12G05210,0.333871353,0,malate dehydrogenase [Botrytis cinerea T4],P:carbohydrate metabolic process; F:L-malate dehydrogenase activity; P:malate metabolic process; P:tricarboxylic acid cycle
+BCIN06G02240,0.333082659,0,similar to SUR7 protein,C:plasma membrane
+BCIN10G02270,0.333081152,0,glutathione S-transferase [Botrytis cinerea T4],F:molecular_function
+BCIN08G01020,0.332586837,0,similar to sedolisin,F:peptidase activity
+BCIN15G00130,0.332040779,0,carbohydrate esterase family 5 [Botrytis cinerea T4],"P:carbohydrate metabolic process; C:extracellular region; F:hydrolase activity, acting on glycosyl bonds"
+BCIN14G03100,0.331939304,0,ATP-dependent RNA helicase dbp5 [Botrytis cinerea T4],F:ion binding; F:helicase activity
+BCIN04G03510,0.331829288,0,extracellular cellulase allergen asp f7- [Botrytis cinerea 1],no GO terms
+BCIN08G05870,0.33178257,0,hypothetical protein BC1G_08975,F:catalytic activity; F:alpha-L-fucosidase activity
+BCIN10G00750,0.331581628,0,hypothetical protein BofuT4P201000002001,F:RNA binding; F:ion binding; P:mRNA processing
+BCIN02G08370,0.331531393,0,tsa family,F:oxidoreductase activity; P:oxidation-reduction process
+BCIN05G02870,0.331335475,0,26S proteasome non-ATPase regulatory subunit 11 [Botrytis cinerea T4],C:protein complex; C:intracellular
+BCIN01G02970,0.330876325,0,carbohydrate-binding module family 18 [Botrytis cinerea 1],F:molecular_function
+BCIN01G08720,0.330408132,0,ubiquitin-conjugating enzyme [Botrytis cinerea ],no GO terms
+BCIN11G06130,0.330404615,0,meiotically up-regulated 80 [Botrytis cinerea 1],P:cellular protein modification process; P:cell cycle; F:enzyme binding
+BCIN13G05670,0.330350863,0,aliphatic nitrilase [Botrytis cinerea T4],"F:hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds; P:nitrogen compound metabolic process"
+BCIN02G00890,0.330336798,0,hypothetical protein BcDW1_6460,C:cellular_component
+BCIN11G02070,0.330121288,0,hypothetical protein BofuT4P29000015001,no GO terms
+BCIN11G05070,0.329849013,0,hypothetical protein BC1G_03255 [Botrytis cinerea B050],C:integral component of membrane
+BCIN09G01730,0.329726439,0,ubiquitin-conjugating enzyme E2 [Botrytis cinerea T4],F:ion binding
+BCIN14G01980,0.329630489,0,transketolase [Botrytis cinerea T4],F:transketolase activity; F:metal ion binding; P:metabolic process
+BCIN08G04610,0.329275828,0,short-chain dehydrogenase reductase SDR [Botrytis cinerea T4],F:oxidoreductase activity
+BCIN10G05100,0.328479598,0,hypothetical protein BC1G_03598,no GO terms
+BCIN02G02980,0.328396208,0,antibiotic biosynthesis monooxygenase [Botrytis cinerea 1],P:oxidation-reduction process; F:monooxygenase activity
+BCIN16G01090,0.328180698,0,---NA---,no GO terms
+BCIN03G06810,0.328113383,0,eukaryotic translation initiation factor subunit,"F:translation factor activity, RNA binding"
+BCIN03G04790,0.327879789,0,aldo keto reductase,F:oxidoreductase activity; P:oxidation-reduction process
+BCIN03G02300,0.327463841,0,gtpase activating,P:signal transduction; F:enzyme regulator activity
+BCIN09G01080,0.327088081,0,hypothetical protein BC1G_14709 [Botrytis cinerea B050],
+BCIN01G08500,0.327042366,0,integral membrane [Botrytis cinerea T4],C:cellular_component
+BCIN05G06020,0.326854989,0,hypothetical protein BC1G_01778,"P:carbohydrate metabolic process; F:hydrolase activity, hydrolyzing O-glycosyl compounds; C:extracellular region; F:cellulose binding"
+BCIN13G02870,0.326737941,0,ankyrin repeat,no GO terms
+BCIN10G00930,0.326690217,0,dna damage tolerance rad31,P:cellular protein modification process; F:ligase activity
+BCIN14G05450,0.326661583,0,predicted protein,no GO terms
+BCIN06G01630,0.326385289,0,glycoside hydrolase family 79,F:molecular_function
+BCIN11G01050,0.326365697,0,"homogentisate 1,2-dioxygenase [Botrytis cinerea T4]","P:L-phenylalanine catabolic process; P:tyrosine metabolic process; P:oxidation-reduction process; F:homogentisate 1,2-dioxygenase activity"
+BCIN03G00280,0.32620193,0,hypothetical protein BC1G_12517,no GO terms
+BCIN02G05470,0.326185855,0,nucleoside-diphosphate-sugar epimerase,no GO terms
+BCIN04G01180,0.326160737,0,60S ribosomal L18 [Botrytis cinerea ],F:structural constituent of ribosome; C:ribosome; C:intracellular; P:translation
+BCIN04G00180,0.325947739,0,galactose-proton symport [Botrytis cinerea 1],no GO terms
+BCIN09G00150,0.325855809,0,mfs monosaccharide [Botrytis cinerea 1],F:transmembrane transporter activity; C:cellular_component
+BCIN05G07430,0.325837724,0,acetyl-coa acetyltransferase [Botrytis cinerea T4],"F:transferase activity, transferring acyl groups other than amino-acyl groups; F:catalytic activity; P:metabolic process; F:transferase activity"
+BCIN12G04840,0.325546359,0,predicted protein,no GO terms
+BCIN14G00940,0.325280112,0,,F:ATPase activity; F:ATP binding; C:integral component of membrane; P:transport; F:transporter activity
+BCIN11G04280,0.325141463,0,hypothetical protein BC1G_03359 [Botrytis cinerea B050],no GO terms
+BCIN10G04410,0.325080678,0,ureidoglycolate hydrolase,"F:hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds; P:catabolic process; F:lyase activity; P:cellular nitrogen compound metabolic process"
+BCIN06G06150,0.324706425,0,[Botrytis cinerea ],no GO terms
+BCIN15G03580,0.324616504,0,stress-activated mitogen-activated kinase [Botrytis cinerea],C:nucleus; C:cytoplasm; F:ion binding; P:cellular protein modification process; P:cellular nitrogen compound metabolic process; P:biosynthetic process; F:signal transducer activity; F:kinase activity
+BCIN06G06110,0.324150822,0,bzip transcription [Botrytis cinerea 1],no GO terms
+BCIN13G03870,0.323982032,0,P-type ATPase [Botrytis cinerea T4],F:ion binding; C:cellular_component; P:transport
+BCIN10G03200,0.323968971,0,hypothetical protein BofuT4_P050930,no GO terms
+BCIN05G06710,0.323897637,0,mitochondrial import inner membrane translocase subunit tim9 [Botrytis cinerea T4],F:metal ion binding; C:mitochondrion; P:protein transport
+BCIN15G03010,0.323633399,0,dnase1 [Botrytis cinerea 1],no GO terms
+BCIN08G04080,0.323403321,0,hypothetical protein BofuT4_P084560,C:plasma membrane
+BCIN04G01750,0.323111956,0,snare domain,P:membrane organization; P:vesicle-mediated transport; C:intracellular; F:molecular_function
+BCIN06G03510,0.323111454,0,transcription factor sequence,F:DNA binding; F:nucleic acid binding transcription factor activity; P:cellular nitrogen compound metabolic process; P:biosynthetic process
+BCIN15G04680,0.322918048,0,hypothetical protein BcDW1_147,no GO terms
+BCIN13G04000,0.32286731,0,d-arabinitol 2-dehydrogenase,F:oxidoreductase activity; P:oxidation-reduction process
+BCIN10G01610,0.322603073,0,glycosyl family 43,"P:carbohydrate metabolic process; F:hydrolase activity, acting on glycosyl bonds"
+BCIN09G03490,0.322588002,0,,no GO terms
+BCIN14G01200,0.322584486,0,22kda glyco [Botrytis cinerea 1],no GO terms
+BCIN11G01700,0.322479494,0,similar to phosphoketolase,F:aldehyde-lyase activity; P:carbohydrate metabolic process
+BCIN09G05120,0.322446339,0,cytochrome b5 [Botrytis cinerea 1],F:ion binding; C:cellular_component
+BCIN04G03340,0.322391582,0,hypothetical protein BC1G_15300 [Botrytis cinerea B050],no GO terms
+BCIN12G02830,0.322122823,0,glycoside hydrolase family 3 [Botrytis cinerea T4],"P:carbohydrate metabolic process; F:hydrolase activity, hydrolyzing O-glycosyl compounds"
+BCIN04G01950,0.322120312,0,,F:nucleic acid binding; F:ATP binding; F:RNA binding; F:RNA helicase activity; P:RNA catabolic process
+BCIN11G00330,0.322105743,0,hydroxymethylglutaryl- synthase,P:isoprenoid biosynthetic process; F:hydroxymethylglutaryl-CoA synthase activity
+BCIN15G05190,0.322008287,0,integral membrane [Botrytis cinerea T4],C:plasma membrane
+BCIN11G04080,0.321845022,0,chromatin regulatory sir2,F:ion binding
+BCIN11G03020,0.321463736,0,galactokinase [Botrytis cinerea 1],P:small molecule metabolic process; P:carbohydrate metabolic process; C:cytoplasm; F:ion binding; F:kinase activity
+BCIN12G00940,0.321356233,0,3-ketoacyl-coA thiolase [Botrytis cinerea T4],"P:biological_process; F:transferase activity, transferring acyl groups"
+BCIN14G04790,0.321320566,0,60s ribosomal l15 [Botrytis cinerea 1],F:structural constituent of ribosome; C:ribosome; P:translation
+BCIN11G02800,0.321251241,0,hypothetical protein BofuT4_P037930 [Botrytis cinerea T4],no GO terms
+BCIN14G00860,0.321154287,0,carbohydrate esterase family 8 [Botrytis cinerea T4],P:carbohydrate metabolic process; P:catabolic process; C:cell wall; P:cell wall organization or biogenesis; C:extracellular region; F:molecular_function
+BCIN15G03310,0.321058337,0,hypothetical protein BC1G_02964,F:protein disulfide oxidoreductase activity; F:electron carrier activity; P:cell redox homeostasis
+BCIN09G07020,0.321003078,0,transcription factor Cys6 [Botrytis cinerea T4],"C:nucleus; F:zinc ion binding; P:regulation of transcription, DNA-templated; F:RNA polymerase II transcription factor activity, sequence-specific DNA binding"
+BCIN06G00730,0.320933251,0,rRNA processing Bystin [Botrytis cinerea T4],no GO terms
+BCIN16G04640,0.320694131,0,,
+BCIN15G02950,0.320268136,0,,C:nucleus; F:DNA binding; F:nucleic acid binding transcription factor activity; F:ion binding; P:cellular nitrogen compound metabolic process; P:biosynthetic process
+BCIN08G03250,0.319992846,0,gtpase activating rga6,P:signal transduction
+BCIN04G01890,0.319783868,0,diphosphomevalonate decarboxylase [Botrytis cinerea T4],P:sulfur compound metabolic process; P:cofactor metabolic process; P:lipid metabolic process; F:lyase activity; F:ion binding; C:cytosol; P:biosynthetic process
+BCIN15G03580,0.319704998,0,stress-activated mitogen-activated kinase [Botrytis cinerea],F:ATP binding; F:MAP kinase activity; F:protein kinase activity; P:protein phosphorylation
+BCIN01G06140,0.319674857,0,rna recognition domain-containing [Botrytis cinerea 1],F:RNA binding; P:mRNA processing
+BCIN01G10360,0.319608044,0,pre-mrna splicing factor,P:DNA metabolic process; F:molecular_function; P:response to stress
+BCIN13G05220,0.319341295,0,ccch finger dna binding [Botrytis cinerea 1],F:ion binding
+BCIN16G04640,0.319241829,0,NAD-dependent formate dehydrogenase [Botrytis cinerea T4],F:oxidoreductase activity
+BCIN01G00380,0.319134828,0,,no GO terms
+BCIN09G01700,0.318985126,0,thioesterase family [Botrytis cinerea 1],C:cellular_component
+BCIN14G02270,0.318442083,0,,F:ion binding
+BCIN12G00420,0.318413951,0,60S ribosomal export NMD3 [Botrytis cinerea ],no GO terms
+BCIN04G00520,0.318286856,0,helicase associated domain-containing,F:ion binding; F:helicase activity
+BCIN08G03710,0.317864879,0,,F:oxidoreductase activity; P:oxidation-reduction process
+BCIN05G07670,0.317663436,0,alcohol dehydrogenase,F:zinc ion binding; F:oxidoreductase activity; P:oxidation-reduction process
+BCIN09G06400,0.317640327,0,,F:oxidoreductase activity; P:oxidation-reduction process
+BCIN03G06360,0.317558444,0,c6 finger domain-containing,"C:nucleus; F:zinc ion binding; P:regulation of transcription, DNA-templated; F:RNA polymerase II transcription factor activity, sequence-specific DNA binding"
+BCIN02G05580,0.317403719,0,predicted protein,no GO terms
+BCIN14G05240,0.317323845,0,hypothetical protein BC1G_10754,F:protein binding
+BCIN13G05580,0.317317314,0,alcohol dehydrogenase [Botrytis cinerea 1],F:oxidoreductase activity; F:ion binding
+BCIN14G04600,0.317283657,0,hypothetical protein BC1G_15345,no GO terms
+BCIN13G00620,0.317243468,0,,F:nucleic acid binding; F:RNA binding; F:binding
+BCIN05G07360,0.317215839,0,hypothetical protein BofuT4_P059920 [Botrytis cinerea T4],C:cellular_component
+BCIN12G03960,0.317157566,0,survival factor 1 [Botrytis cinerea T4],P:response to stress
+BCIN11G02040,0.316705448,0,succinate-semialdehyde dehydrogenase [Botrytis cinerea 1],F:oxidoreductase activity
+BCIN01G05310,0.316405544,0,[Botrytis cinerea ],no GO terms
+BCIN08G00270,0.316353299,0,sugar transporter [Botrytis cinerea T4],F:substrate-specific transmembrane transporter activity; P:transmembrane transport; F:transmembrane transporter activity; C:membrane; C:integral component of membrane; F:transporter activity
+BCIN11G02050,0.315851951,0,short-chain dehydrogenase reductase [Botrytis cinerea T4],F:oxidoreductase activity; P:oxidation-reduction process
+BCIN05G05900,0.315766551,0,pepsin (secreted ) [Botrytis cinerea T4],F:peptidase activity
+BCIN08G00630,0.315682658,0,glutamate-rich WD repeat containing 1 [Botrytis cinerea T4],C:nucleus
+BCIN05G02420,0.315603788,0,CFEM domain-containing,C:cellular_component
+BCIN02G03820,0.315312926,0,hypothetical protein BC1G_07978,F:ATP binding; F:thymidylate kinase activity; P:dTDP biosynthetic process
+BCIN09G00770,0.315099928,0,similar to D-lactonohydrolase-like protein,F:molecular_function
+BCIN07G01260,0.315063256,0,hypothetical protein BC1G_09773,"F:endoplasmic reticulum signal peptide binding; P:SRP-dependent cotranslational protein targeting to membrane; F:RNA binding; F:7S RNA binding; F:signal recognition particle binding; C:signal recognition particle, endoplasmic reticulum targeting"
+BCIN02G02470,0.314650322,0,mrna cleavage factor complex component pcf11 [Botrytis cinerea 1],C:mRNA cleavage factor complex; P:termination of RNA polymerase II transcription; P:intracellular protein transport; P:mRNA polyadenylation; P:mRNA cleavage
+BCIN05G02720,0.314627214,0,glycerol:H+ symporter (Gup1),C:cellular_component
+BCIN07G00490,0.314577983,0,AP-3 complex subunit delta,P:vesicle-mediated transport; F:protein transporter activity; C:Golgi apparatus; C:protein complex
+BCIN04G00170,0.314513682,0,short-chain dehydrogenase reductase SDR [Botrytis cinerea T4],F:oxidoreductase activity
+BCIN05G07640,0.314247937,0,,"F:iron ion binding; F:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen; P:oxidation-reduction process; F:heme binding"
+BCIN06G02080,0.313880717,0,f-box domain,F:protein binding
+BCIN05G02400,0.313783261,0,mitochondrial hypoxia responsive domain-containing [Botrytis cinerea 1],C:cellular_component
+BCIN09G01610,0.313738049,0,MFS sugar transporter [Botrytis cinerea T4],F:transmembrane transporter activity; C:cellular_component
+BCIN03G04270,0.313431111,0,putative serine-rich protein,C:cellular_component
+BCIN01G06490,0.313419055,0,hypothetical protein BC1G_00345 [Botrytis cinerea B050],P:cellular nitrogen compound metabolic process; P:biosynthetic process
+BCIN07G03500,0.31335174,0,KH domain-containing [Botrytis cinerea T4],F:RNA binding
+BCIN01G04670,0.313189982,0,hypothetical protein BC1G_13327,no GO terms
+BCIN15G02690,0.31310207,0,phenol acid carboxylase,F:carboxy-lyase activity
+BCIN12G03290,0.312972463,0,hypothetical protein BofuT4_P000090,F:ion binding
+BCIN09G06530,0.312711742,0,[Botrytis cinerea ],C:cellular_component
+BCIN16G02910,0.312441978,0,mediator of rna polymerase ii transcription subunit 6,"F:transcription factor activity, protein binding; C:protein complex; P:cellular nitrogen compound metabolic process; P:biosynthetic process; C:nucleoplasm"
+BCIN15G03580,0.31235909,0,stress-activated mitogen-activated kinase [Botrytis cinerea],C:nucleus; C:cytoplasm; F:ion binding; P:cellular protein modification process; P:cellular nitrogen compound metabolic process; P:biosynthetic process; F:signal transducer activity; F:kinase activity
+BCIN04G05050,0.311119283,0,camp-mediated signaling sok1 [Botrytis cinerea 1],no GO terms
+BCIN12G00340,0.310989676,0,MNNG and nitrosoguanidine resistance,C:cellular_component
+BCIN06G07510,0.310867102,0,phosphoglycerate mutase,no GO terms
+BCIN09G00230,0.310619441,0,RING finger domain [Botrytis cinerea T4],F:ion binding
+BCIN07G04350,0.310575234,0,sphingomyelin phosphodiesterase,"F:sphingomyelin phosphodiesterase activity; P:sphingomyelin catabolic process; F:hydrolase activity, acting on glycosyl bonds"
+BCIN09G02150,0.310518971,0,hypothetical protein BC1G_07175 [Botrytis cinerea B050],no GO terms
+BCIN04G03050,0.310451656,0,G coupled receptor family [Botrytis cinerea T4],C:cellular_component; F:signal transducer activity
+BCIN12G01570,0.310318532,0,hypothetical protein BofuT4_P133590 [Botrytis cinerea T4],no GO terms
+BCIN10G01160,0.310227104,0,hypothetical protein BcDW1_1959,no GO terms
+BCIN13G03210,0.309981955,0,lactoylglutathione lyase,F:lyase activity; F:ion binding
+BCIN07G07080,0.309517279,0,acid phosphatase [Botrytis cinerea T4],F:phosphatase activity
+BCIN15G02180,0.309104345,0,,F:protein binding
+BCIN08G00990,0.308966198,0,[Botrytis cinerea ],no GO terms
+BCIN13G02910,0.308724064,0,Copper fist DNA binding domain,C:nucleus; F:DNA binding; F:nucleic acid binding transcription factor activity; F:ion binding; P:cellular nitrogen compound metabolic process; P:biosynthetic process
+BCIN04G03230,0.308651222,0,short-chain dehydrogenase reductase sdr,F:oxidoreductase activity
+BCIN03G06980,0.308647706,0,prephenate dehydrogenase,F:oxidoreductase activity; P:cellular amino acid metabolic process; P:biosynthetic process
+BCIN02G07930,0.308502023,0,3-oxoacyl-acyl-carrier- reductase [Botrytis cinerea T4],F:oxidoreductase activity
+BCIN07G06370,0.308469873,0,transcription factor C2H2 [Botrytis cinerea T4],C:nucleus; F:DNA binding; F:ion binding; P:cellular nitrogen compound metabolic process; P:biosynthetic process
+BCIN11G06340,0.308431192,0,ubiquitin-conjugating enzyme E2 [Botrytis cinerea T4],no GO terms
+BCIN04G00410,0.30837744,0,f-box domain-containing [Botrytis cinerea 1],F:protein binding
+BCIN05G01120,0.308222213,0,dienelactone hydrolase family,F:molecular_function
+BCIN10G05980,0.308135306,0,hypothetical protein BcDW1_2045,C:cellular_component
+BCIN06G01360,0.308117723,0,calcium-dependent kinase,F:ion binding; P:cellular protein modification process; F:kinase activity
+BCIN05G01240,0.308002182,0,stomatin family,C:cellular_component
+BCIN08G04730,0.30796551,0,"fructose-1,6-bisphosphatase [Botrytis cinerea ]","P:carbohydrate metabolic process; F:fructose 1,6-bisphosphate 1-phosphatase activity; P:dephosphorylation"
+BCIN02G06020,0.307885636,0,ran-interacting Mog1 [Botrytis cinerea T4],no GO terms
+BCIN11G00630,0.307716846,0,transcription factor c2h2,no GO terms
+BCIN01G01120,0.307694742,0,hypothetical protein BofuT4_P145890,P:protein targeting; C:mitochondrion; P:mitochondrion organization
+BCIN02G07540,0.307201432,0,c2h2 transcription factor swi5,F:ion binding
+BCIN10G03590,0.307169783,0,peroxisomal carrier [Botrytis cinerea 1],P:transmembrane transport; C:cellular_component
+BCIN06G07120,0.30713713,0,salicylate hydroxylase,F:oxidoreductase activity; F:ion binding
+BCIN09G02820,0.307047711,0,regulator of calcineurin [Botrytis cinerea T4],P:signal transduction; C:intracellular; F:molecular_function
+BCIN04G00150,0.307008026,0,hypothetical protein BcDW1_6722,C:cellular_component
+BCIN09G03380,0.306855813,0,hypothetical protein BC1G_15954 [Botrytis cinerea B050],no GO terms
+BCIN09G00760,0.306664918,0,transcription factor C2H2 [Botrytis cinerea T4],F:ion binding
+BCIN10G06000,0.306255501,0,hypothetical protein BcDW1_2043,no GO terms
+BCIN03G06150,0.306219331,0,prolyl oligopeptidase,F:molecular_function
+BCIN02G06080,0.305991765,0,[Botrytis cinerea ],no GO terms
+BCIN15G02270,0.30573858,0,glycogen synthase [Botrytis cinerea ],P:glycogen biosynthetic process; F:glycogen (starch) synthase activity
+BCIN16G00850,0.305737575,0,DUF618 domain-containing,no GO terms
+BCIN08G04030,0.305579836,0,betaine aldehyde dehydrogenase [Botrytis cinerea 1],F:oxidoreductase activity
+BCIN08G04530,0.305372867,0,autophagy-related 3 [Botrytis cinerea T4],C:cytoplasm; P:autophagy; P:transport
+BCIN06G05240,0.305204076,0,,no GO terms
+BCIN10G02660,0.305099084,0,hypothetical protein BC1G_04690 [Botrytis cinerea B050],P:biological_process; F:lyase activity
+BCIN11G04710,0.304893622,0,glycerol dehydrogenase [Botrytis cinerea T4],F:oxidoreductase activity; P:oxidation-reduction process
+BCIN08G03530,0.304756479,0,60S ribosomal L34,F:RNA binding; F:structural constituent of ribosome; P:ribosome biogenesis; C:cytosolic large ribosomal subunit; P:translation
+BCIN15G02040,0.304560562,0,ER to Golgi transport (Sly41) [Botrytis cinerea T4],C:cellular_component
+BCIN07G04130,0.304492242,0,multifunctional beta-oxidation [Botrytis cinerea T4],F:oxidoreductase activity
+BCIN02G08550,0.304453058,0,hypothetical protein BofuT4_P067880,no GO terms
+BCIN07G01540,0.304073279,0,elongation factor 2 [Botrytis cinerea T4],F:GTP binding; F:translation elongation factor activity; F:GTPase activity; P:translational elongation
+BCIN02G00850,0.30406926,0,cytoskeleton assembly control SLA1 [Botrytis cinerea T4],"F:ubiquitin-like protein binding; P:vesicle-mediated transport; P:cytoskeleton organization; F:cytoskeletal protein binding; F:protein binding, bridging"
+BCIN11G04150,0.303893437,0,ERB1_BOTFB ame: Full=Ribosome biogenesis erb1 ame: Full=Eukaryotic ribosome biogenesis 1,P:ribosome biogenesis; C:protein complex; P:cellular nitrogen compound metabolic process; C:nucleolus; F:molecular_function; C:nucleoplasm
+BCIN05G03230,0.303867817,0,phosphoketolase,F:aldehyde-lyase activity; P:carbohydrate metabolic process; F:catalytic activity; P:metabolic process
+BCIN12G02070,0.303829136,0,sulfate transporter,F:transmembrane transporter activity; C:cellular_component
+BCIN16G00610,0.303777896,0,hypothetical protein BC1G_14649 [Botrytis cinerea B050],C:nucleus
+BCIN07G01090,0.303647284,0,hypothetical protein BofuT4_P116300,no GO terms
+BCIN11G04620,0.303512653,0,ADP-ribosylation factor [Botrytis cinerea ],P:signal transduction; F:ion binding; C:intracellular
+BCIN07G07060,0.30341369,0,hypothetical protein BcDW1_8892,C:integral component of membrane
+BCIN01G01910,0.30331774,0,wd domain-containing,F:protein binding
+BCIN15G05360,0.303119311,0,galactose-1-phosphate uridylyltransferase,P:small molecule metabolic process; P:carbohydrate metabolic process; F:nucleotidyltransferase activity; F:ion binding
+BCIN08G06200,0.303106752,0,dna polymerase gamma,F:DNA binding; F:nucleotidyltransferase activity; C:mitochondrion; P:biosynthetic process; P:DNA metabolic process
+BCIN06G03460,0.302710898,0,vacuolar sorting-associated vps17 [Botrytis cinerea T4],P:vesicle-mediated transport; F:ion binding; C:cytosol; F:lipid binding; C:protein complex
+BCIN11G02250,0.302698339,0,nuclear GTP-binding NUG1 [Botrytis cinerea T4],F:GTP binding
+BCIN04G05390,0.302658151,0,CIAO1_BOTFB ame: Full=Probable cytosolic iron-sulfur assembly 1,C:nucleus; P:nucleocytoplasmic transport; P:sulfur compound metabolic process; P:cofactor metabolic process; P:cellular component assembly; C:cytosol; P:ribosome biogenesis; P:tRNA metabolic process; C:protein complex; P:biosynthetic process
+BCIN13G05150,0.30255115,0,transcription factor bZIP [Botrytis cinerea T4],F:DNA binding; F:nucleic acid binding transcription factor activity; P:cellular nitrogen compound metabolic process; P:biosynthetic process
+BCIN03G08410,0.302447665,0,predicted protein,no GO terms
+BCIN11G04110,0.302381857,0,,P:transmembrane transport; C:membrane; C:integral component of membrane; F:transporter activity
+BCIN08G06270,0.302194981,0,hypothetical protein BC1G_10998,P:metabolic process; F:hydrolase activity
+BCIN02G09290,0.301427386,0,histone chaperone [Botrytis cinerea 1],C:nucleus; P:macromolecular complex assembly; F:histone binding; P:chromosome organization; P:cellular protein modification process; P:cellular nitrogen compound metabolic process; P:biosynthetic process
+BCIN04G02360,0.30125106,0,c4-dicarboxylate transporter malic acid transport [Botrytis cinerea 1],P:transmembrane transport; C:cellular_component
+BCIN11G03360,0.301193792,0,mucin [Botrytis cinerea 1],no GO terms
+BCIN05G00680,0.301139035,0,,"F:phosphorelay sensor kinase activity; F:protein binding; P:signal transduction; P:phosphorelay signal transduction system; P:phosphorylation; F:transferase activity, transferring phosphorus-containing groups"
+BCIN05G08310,0.301062175,0,hypothetical protein BofuT4_P103150,C:cellular_component
+BCIN15G05330,0.300987827,0,putative mmp37-like protein,F:phosphatidate cytidylyltransferase activity; P:cardiolipin biosynthetic process
+BCIN07G00310,0.300959695,0,hypothetical protein BC1G_05375,F:oxidoreductase activity; P:oxidation-reduction process
+BCIN06G06310,0.300692946,0,hypothetical protein BofuT4_P143390,no IPS match
+BCIN09G02730,0.30060855,0,hypothetical protein BofuT4_P054050,F:oxidoreductase activity; F:ion binding
+BCIN05G01030,0.300568362,0,xylitol dehydrogenase [Botrytis cinerea ],F:oxidoreductase activity; F:ion binding
+BCIN13G04410,0.300394046,0,histone H3,C:nucleus; F:DNA binding; C:chromosome
+BCIN14G03090,0.300372445,0,hypothetical protein BC1G_10064,no GO terms
+BCIN06G01200,0.300342303,0,DUF757 domain-containing [Botrytis cinerea T4],no GO terms
+BCIN13G05630,0.300324219,0,hypothetical protein BC1G_06385 [Botrytis cinerea B050],F:ion binding
+BCIN11G00190,0.3001921,0,hypothetical protein BofuT4_P026400,C:cellular_component
+BCIN04G05800,0.299911284,0,,
+BCIN02G04710,0.299778663,0,,
+BCIN16G01350,0.299549088,0,eukaryotic translation initiation factor 5 [Botrytis cinerea T4],F:translation initiation factor activity; P:translational initiation
+BCIN07G05750,0.299546576,0,,
+BCIN02G05690,0.299377283,0,,
+BCIN01G08400,0.299371757,0,,
+BCIN16G02050,0.299161774,0,,
+BCIN12G00360,0.299059294,0,,
+BCIN01G06560,0.2990392,0,,
+BCIN10G02620,0.299010063,0,,
+BCIN12G00690,0.298880456,0,Bcnrps2,
+BCIN04G00250,0.298792544,0,,
+BCIN13G04920,0.298364037,0,,
+BCIN08G04890,0.298343441,0,arrestin domain-containing [Botrytis cinerea 1],no GO terms
+BCIN15G00150,0.298196754,0,,
+BCIN01G06500,0.297908905,0,,
+BCIN16G02920,0.29778181,0,,
+BCIN11G04570,0.297706959,0,,
+BCIN11G00220,0.297686363,0,hypothetical protein BC1G_09668,no GO terms
+BCIN16G05190,0.297509032,0,,
+BCIN10G03800,0.297438703,0,,
+BCIN12G03940,0.297415595,0,,
+BCIN12G04290,0.297391482,0,,
+BCIN01G02840,0.297368876,0,,
+BCIN06G07520,0.297047872,0,,
+BCIN06G05650,0.297024764,0,,
+BCIN16G02630,0.297010196,0,,
+BCIN14G05570,0.296940369,0,tyrosinase central domain [Botrytis cinerea T4],F:oxidoreductase activity; F:metal ion binding; P:oxidation-reduction process
+BCIN05G07160,0.296786146,0,,
+BCIN11G00690,0.296466147,0,,
+BCIN10G01240,0.296457105,0,,
+BCIN12G00040,0.29631293,0,,
+BCIN02G02150,0.296135599,0,,
+BCIN12G03180,0.296130073,0,,
+BCIN12G05220,0.296127059,0,,
+BCIN04G00280,0.296109477,0,,
+BCIN02G00220,0.295917578,0,,
+BCIN03G05960,0.295771896,0,elongation factor 1 gamma domain-containing [Botrytis cinerea ],F:translation elongation factor activity; P:translational elongation
+BCIN16G01440,0.29555287,0,,
+BCIN04G06720,0.295478521,0,serine threonine- kinase ssp1 [Botrytis cinerea T4],F:ATP binding; F:protein kinase activity; P:protein phosphorylation
+BCIN05G03380,0.295400154,0,,
+BCIN02G03580,0.295290641,0,,
+BCIN02G01380,0.295206246,0,,
+BCIN10G02060,0.295202227,0,oxidoreductase [Botrytis cinerea T4],F:oxidoreductase activity; P:oxidation-reduction process
+BCIN04G01690,0.295139935,0,hypothetical protein BofuT4_P115970,F:nucleotide binding; F:nucleic acid binding; F:ATP binding; F:helicase activity; F:hydrolase activity
+BCIN16G01160,0.2950897,0,,
+BCIN15G02780,0.294914881,0,,
+BCIN14G02360,0.294761664,0,,
+BCIN12G01450,0.294750612,0,,
+BCIN12G03260,0.294742574,0,,
+BCIN14G00820,0.294710424,0,,
+BCIN11G04350,0.294658681,0,,
+BCIN03G04170,0.294547661,0,,
+BCIN08G05080,0.293990049,0,,
+BCIN11G06460,0.293913189,0,,
+BCIN01G09650,0.293890081,0,glucose-6-phosphate 1-dehydrogenase,P:carbohydrate metabolic process; F:NADP binding; P:pentose-phosphate shunt; F:oxidoreductase activity; P:oxidation-reduction process; P:glucose metabolic process; F:glucose-6-phosphate dehydrogenase activity
+BCIN03G01090,0.29384286,0,,
+BCIN02G07400,0.293799658,0,,
+BCIN13G01680,0.293768512,0,,
+BCIN13G02240,0.293743394,0,importin subunit beta-4 [Botrytis cinerea T4],P:intracellular protein transport; F:binding; F:Ran GTPase binding
+BCIN11G06280,0.293539941,0,,
+BCIN01G03020,0.293395766,0,,
+BCIN11G02620,0.293336488,0,,
+BCIN09G05250,0.293269675,0,,
+BCIN02G03300,0.293224966,0,,
+BCIN01G06640,0.293172219,0,ATP phosphoribosyltransferase [Botrytis cinerea ],"F:magnesium ion binding; F:transferase activity, transferring glycosyl groups; C:cytoplasm; F:ATP phosphoribosyltransferase activity; P:histidine biosynthetic process; F:transferase activity"
+BCIN14G02520,0.292864779,0,U3 small nucleolar ribonucleo IMP4 [Botrytis cinerea T4],C:intracellular ribonucleoprotein complex; C:viral nucleocapsid
+BCIN05G00440,0.292757777,0,,
+BCIN10G03520,0.292557339,0,,
+BCIN01G06220,0.292413666,0,GTP-binding nuclear ran-1 [Botrytis cinerea ],F:nucleotide binding; F:GTP binding; P:nucleocytoplasmic transport; C:nucleus; P:small GTPase mediated signal transduction; P:signal transduction; F:GTPase activity; P:protein transport; P:intracellular protein transport; P:transport
+BCIN12G02170,0.292354388,0,,
+BCIN03G05740,0.292181076,0,,
+BCIN10G03780,0.292031375,0,,
+BCIN07G02180,0.292009774,0,,
+BCIN08G03080,0.291947984,0,,
+BCIN12G01280,0.29191282,0,,
+BCIN09G01000,0.291906791,0,,
+BCIN10G00460,0.291890716,0,AMP binding domain [Botrytis cinerea T4],F:catalytic activity; P:metabolic process
+BCIN16G00120,0.291874138,0,,
+BCIN08G04890,0.291827922,0,,
+BCIN08G03150,0.291583276,0,,
+BCIN15G02660,0.291247704,0,,
+BCIN16G03170,0.291218065,0,,
+BCIN08G02970,0.291120609,0,pectin methyl esterase [Botrytis cinerea],P:pectin catabolic process; C:cell wall; F:aspartyl esterase activity; C:extracellular region; P:cell wall modification; F:pectinesterase activity
+BCIN10G01550,0.290940264,0,peptide transporter [Botrytis cinerea T4],C:integral component of membrane; P:transport; F:transporter activity
+BCIN16G01170,0.29087747,0,,
+BCIN13G00980,0.290670501,0,,
+BCIN04G04630,0.290526325,0,,
+BCIN08G05970,0.290462526,0,,
+BCIN04G01420,0.290458005,0,,
+BCIN06G05390,0.290173673,0,,
+BCIN02G04220,0.290017944,0,60S ribosomal L4 [Botrytis cinerea T4],F:structural constituent of ribosome; C:ribosome; P:translation
+BCIN09G01230,0.290017442,0,,
+BCIN12G01350,0.289922497,0,ubiquitin-activating enzyme E1 1,F:ATP binding; P:cellular protein modification process; F:small protein activating enzyme activity
+BCIN16G01240,0.28972256,0,,
+BCIN02G05900,0.28969694,0,,
+BCIN08G03700,0.289675339,0,cell division control cdc48 [Botrytis cinerea 1],P:cell division; F:ATP binding; F:hydrolase activity
+BCIN06G04520,0.289660269,0,catalase [Botrytis cinerea T4],F:peroxidase activity; P:response to oxidative stress; F:oxidoreductase activity; F:metal ion binding; F:catalase activity; P:cellular oxidant detoxification; P:oxidation-reduction process; F:heme binding; P:hydrogen peroxide catabolic process
+BCIN09G01150,0.28963716,0,,
+BCIN03G07360,0.289597977,0,,
+BCIN01G03000,0.28931264,0,inorganic pyrophosphatase,F:magnesium ion binding; F:inorganic diphosphatase activity; C:cytoplasm; P:phosphate-containing compound metabolic process
+BCIN04G06240,0.289308119,0,,
+BCIN06G02320,0.289225733,0,,
+BCIN12G06310,0.289069502,0,,
+BCIN01G07690,0.289036346,0,,
+BCIN02G00850,0.289026299,0,,
+BCIN01G02910,0.288891166,0,,
+BCIN12G00670,0.288843443,0,,
+BCIN05G08340,0.288839926,0,,
+BCIN14G04490,0.288811292,0,,
+BCIN13G05260,0.288782156,0,,
+BCIN03G03480,0.288714338,0,,
+BCIN06G04300,0.288387808,0,pyridoxamine phosphate oxidase [Botrytis cinerea T4],F:pyridoxamine-phosphate oxidase activity; P:pyridoxal phosphate biosynthetic process; F:FMN binding; P:oxidation-reduction process
+BCIN12G04090,0.288379268,0,,
+BCIN06G00022,0.288364198,0,,
+BCIN13G02050,0.288145674,0,,
+BCIN04G05050,0.288072331,0,,
+BCIN13G01340,0.288000494,0,,
+BCIN15G01260,0.287701092,0,,
+BCIN12G04150,0.287674467,0,,
+BCIN05G03150,0.287551391,0,3-hydroxy-3-methylglutaryl-coenzyme A (HMG- ) reductase isozyme [Botrytis cinerea T4],C:endoplasmic reticulum membrane; F:NADP binding; C:integral component of membrane; P:coenzyme A metabolic process; P:oxidation-reduction process; P:isoprenoid biosynthetic process; F:hydroxymethylglutaryl-CoA reductase (NADPH) activity
+BCIN03G00610,0.287293684,0,,
+BCIN07G01430,0.287162067,0,,
+BCIN10G02230,0.287062099,0,,
+BCIN12G00900,0.287003826,0,NAD-dependent epimerase dehydratase,F:coenzyme binding; F:catalytic activity
+BCIN13G00980,0.286293499,0,,
+BCIN08G01660,0.286258836,0,hypothetical protein BC1G_07889 [Botrytis cinerea B050],F:lipid binding
+BCIN08G00240,0.286199056,0,,
+BCIN10G05040,0.286106121,0,,
+BCIN03G05310,0.285883076,0,importin 13,F:binding
+BCIN10G05430,0.285850423,0,40S ribosomal S3 [Botrytis cinerea ],F:RNA binding; F:structural constituent of ribosome; C:small ribosomal subunit; P:translation
+BCIN09G05430,0.285836357,0,,
+BCIN11G02220,0.28581124,0,,
+BCIN06G01310,0.285807221,0,,
+BCIN14G05440,0.285752967,0,,
+BCIN06G02900,0.28570675,0,,
+BCIN14G05010,0.2856746,0,,
+BCIN04G05830,0.285661036,0,,
+BCIN02G04060,0.285598242,0,,
+BCIN02G01420,0.28556157,0,,
+BCIN11G03810,0.285342544,0,,
+BCIN01G11220,0.285022546,0,,
+BCIN02G04270,0.284949704,0,,
+BCIN04G02730,0.284946188,0,,
+BCIN03G06810,0.284846722,0,,
+BCIN09G06230,0.284537775,0,[Botrytis cinerea ],no GO terms
+BCIN03G01960,0.284427257,0,,
+BCIN12G04280,0.284414196,0,,
+BCIN02G09370,0.284404651,0,,
+BCIN04G02870,0.284395609,0,,
+BCIN09G00120,0.284350397,0,,
+BCIN01G02510,0.284245908,0,,
+BCIN06G01830,0.284051497,0,,
+BCIN03G07550,0.284047478,0,,
+BCIN04G03610,0.283987196,0,,
+BCIN09G02180,0.283955045,0,,
+BCIN04G02520,0.283637558,0,,
+BCIN08G00510,0.283451185,0,,
+BCIN11G06370,0.283451185,0,,
+BCIN04G04260,0.283357245,0,,
+BCIN07G01600,0.28334971,0,,
+BCIN03G01820,0.283227136,0,60S ribosomal L1 [Botrytis cinerea ],F:RNA binding; F:structural constituent of ribosome; C:large ribosomal subunit; P:translation
+BCIN07G05250,0.283201014,0,,
+BCIN13G04800,0.283194483,0,,
+BCIN13G00550,0.283116116,0,curved DNA-binding [Botrytis cinerea T4],F:DNA binding; F:hydrolase activity
+BCIN06G01580,0.283097026,0,,
+BCIN11G05510,0.283048298,0,,
+BCIN12G00730,0.282981485,0,,
+BCIN03G06940,0.282825253,0,"EIF3C_BOTFB, Eukaryotic translation initiation factor 3 subunit C ",C:multi-eIF complex; F:translation initiation factor activity; P:formation of translation preinitiation complex; C:cytoplasmic stress granule; C:eukaryotic 43S preinitiation complex; C:eukaryotic 48S preinitiation complex; F:translation initiation factor binding; P:regulation of translational initiation; C:eukaryotic translation initiation factor 3 complex
+BCIN12G03690,0.282811188,0,,
+BCIN16G04280,0.282612758,0,,
+BCIN02G05510,0.282578598,0,,
+BCIN03G05720,0.282488677,0,[Botrytis cinerea ],no GO terms
+BCIN01G05830,0.282375145,0,,
+BCIN06G06300,0.282373638,0,,
+BCIN02G05200,0.282258097,0,,
+BCIN03G04970,0.282235993,0,,
+BCIN02G04910,0.282208866,0,,
+BCIN10G03750,0.282098851,0,,
+BCIN15G01360,0.282041583,0,,
+BCIN08G06550,0.281998883,0,,
+BCIN11G03770,0.281900422,0,,
+BCIN08G00010,0.281825069,0,,
+BCIN03G09318,0.281657283,0,,
+BCIN07G02000,0.281628649,0,,
+BCIN05G05310,0.281371444,0,,
+BCIN03G04900,0.281353359,0,,
+BCIN15G04110,0.281345321,0,,
+BCIN04G01060,0.281211193,0,,
+BCIN06G06610,0.281208179,0,,
+BCIN16G01530,0.281192606,0,,
+BCIN10G05630,0.28110369,0,,
+BCIN13G01020,0.280851508,0,predicted protein,no GO terms
+BCIN16G03660,0.280839954,0,,
+BCIN10G01270,0.280673173,0,,
+BCIN10G04660,0.280644037,0,,
+BCIN09G03810,0.279845798,0,,
+BCIN11G05550,0.279814149,0,,
+BCIN04G05430,0.279794558,0,,
+BCIN02G03870,0.279724731,0,,
+BCIN07G00740,0.279706646,0,,
+BCIN06G04740,0.279588091,0,,
+BCIN07G02820,0.279505202,0,,
+BCIN06G03290,0.279483099,0,,
+BCIN08G04680,0.27947908,0,WD repeat-containing [Botrytis cinerea T4],F:protein binding
+BCIN06G02130,0.279289191,0,,
+BCIN09G03810,0.279196758,0,dienelactone hydrolase family,F:hydrolase activity
+BCIN08G02620,0.279195753,0,,
+BCIN15G00050,0.279087245,0,trichothecene 3-o-acetyltransferase [Botrytis cinerea 1],"F:transferase activity, transferring acyl groups other than amino-acyl groups"
+BCIN11G02720,0.279081216,0,alcohol dehydrogenase [Botrytis cinerea ],F:oxidoreductase activity; P:oxidation-reduction process
+BCIN04G01390,0.27897522,0,,
+BCIN03G06510,0.278772772,0,,
+BCIN06G01620,0.278714499,0,,
+BCIN08G00440,0.278663259,0,,
+BCIN15G03890,0.278575347,0,,
+BCIN05G03730,0.278211141,0,,
+BCIN15G04480,0.278167436,0,,
+BCIN02G02160,0.278138802,0,,
+BCIN14G04080,0.277868034,0,,
+BCIN12G04150,0.277775099,0,,
+BCIN03G04760,0.277717328,0,,
+BCIN03G08070,0.277641975,0,,
+BCIN03G01970,0.277625397,0,,
+BCIN09G05010,0.277624895,0,hypothetical protein BC1G_09860,no GO terms
+BCIN11G04090,0.277602289,0,,
+BCIN02G05980,0.277432996,0,,
+BCIN08G02330,0.277422949,0,,
+BCIN13G01310,0.277379244,0,,
+BCIN01G03220,0.277173782,0,,
+BCIN01G11010,0.276993437,0,,
+BCIN02G06650,0.27697485,0,hypothetical protein SS1G_10974 [Sclerotinia sclerotiorum 1980],C:box H/ACA snoRNP complex; C:nucleus; P:pseudouridine synthesis; P:ribosome biogenesis; C:nucleolus
+BCIN03G05420,0.276964803,0,,
+BCIN03G02230,0.276548855,0,DUF185 domain,no GO terms
+BCIN03G06170,0.276467474,0,40S ribosomal S1 [Botrytis cinerea ],F:structural constituent of ribosome; C:intracellular ribonucleoprotein complex; C:cytoplasm; C:cytosolic small ribosomal subunit; C:ribosome; C:intracellular; P:translation
+BCIN08G00160,0.276425276,0,,
+BCIN01G05490,0.276369012,0,,
+BCIN11G01640,0.276230865,0,,
+BCIN03G05340,0.276171085,0,,
+BCIN11G01690,0.276128888,0,acetate kinase,F:magnesium ion binding; P:organic acid metabolic process; F:ATP binding; P:acetyl-CoA biosynthetic process; P:phosphorylation; C:intracellular; F:acetate kinase activity
+BCIN15G03480,0.276041981,0,,
+BCIN01G07840,0.275854101,0,,
+BCIN07G04200,0.275837523,0,,
+BCIN12G00630,0.275802861,0,,
+BCIN04G00450,0.275793818,0,,
+BCIN06G01590,0.275733034,0,,
+BCIN10G03880,0.27571947,0,,
+BCIN11G02060,0.275712437,0,,
+BCIN02G09280,0.275583835,0,cfia complex component [Botrytis cinerea 1],C:nucleus; P:RNA processing; P:mRNA processing
+BCIN10G04610,0.275513505,0,40S ribosomal S7 [Botrytis cinerea ],F:structural constituent of ribosome; C:ribosome; P:translation
+BCIN04G06790,0.275388419,0,,
+BCIN08G05630,0.275256301,0,,
+BCIN11G05650,0.275160853,0,,
+BCIN06G03350,0.275102078,0,60S ribosomal L13 [Botrytis cinerea ],F:structural constituent of ribosome; C:ribosome; C:intracellular; P:translation
+BCIN12G02880,0.275016678,0,,
+BCIN06G05270,0.27483784,0,,
+BCIN16G01910,0.274676083,0,,
+BCIN10G03500,0.274330966,0,phosphatidylserine decarboxylase proenzyme [Botrytis cinerea T4],C:integral component of membrane; F:phosphatidylserine decarboxylase activity; P:phospholipid biosynthetic process
+BCIN02G06820,0.274288266,0,dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Botrytis cinerea T4],"F:dihydrolipoyllysine-residue succinyltransferase activity; F:transferase activity, transferring acyl groups; C:oxoglutarate dehydrogenase complex; P:metabolic process; P:tricarboxylic acid cycle; F:transferase activity"
+BCIN05G01080,0.274287764,0,,
+BCIN05G01420,0.274255111,0,,
+BCIN07G02280,0.274180763,0,,
+BCIN13G04680,0.274114954,0,,
+BCIN01G07760,0.274079287,0,aldo-keto reductase [Botrytis cinerea T4],no GO terms
+BCIN03G05290,0.273961234,0,,
+BCIN16G03570,0.273895426,0,Bcnrps3,
+BCIN13G03500,0.273863276,0,,
+BCIN03G02680,0.273789932,0,eukaryotic peptide chain release factor subunit 1,"P:translational termination; P:L-phenylalanine biosynthetic process; C:cytoplasm; P:metabolic process; F:amino acid binding; F:prephenate dehydratase activity; F:translation release factor activity, codon specific"
+BCIN01G02320,0.273676903,0,,
+BCIN04G05050,0.273559352,0,,
+BCIN03G07640,0.273308175,0,,
+BCIN06G00060,0.273276025,0,,
+BCIN06G00400,0.273229306,0,,
+BCIN03G03360,0.273137878,0,transaldolase [Botrytis cinerea T4],P:carbohydrate metabolic process; F:sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase activity; C:cytoplasm; P:pentose-phosphate shunt; F:catalytic activity; F:transferase activity
+BCIN02G02530,0.273042933,0,,
+BCIN09G06470,0.273002243,0,,
+BCIN06G02390,0.272994205,0,,
+BCIN08G04150,0.272883185,0,,
+BCIN01G02750,0.272877659,0,,
+BCIN07G06370,0.272797785,0,,
+BCIN07G00120,0.272759104,0,,
+BCIN09G05020,0.272422527,0,glutamate decarboxylase [Botrytis cinerea 1],F:pyridoxal phosphate binding; P:glutamate metabolic process; F:catalytic activity; F:glutamate decarboxylase activity; P:carboxylic acid metabolic process; F:carboxy-lyase activity
+BCIN04G01640,0.27241248,0,carbohydrate-binding module family 48,no GO terms
+BCIN06G07230,0.272312512,0,,
+BCIN12G06580,0.272151759,0,,
+BCIN16G02700,0.272046767,0,,
+BCIN09G03930,0.272002058,0,,
+BCIN03G02130,0.271998541,0,,
+BCIN05G07310,0.271971916,0,,
+BCIN02G02630,0.271963376,0,dynamin dnm1,F:GTP binding; F:GTPase activity
+BCIN03G07400,0.27195132,0,,
+BCIN04G00380,0.271949813,0,,
+BCIN05G04650,0.271845826,0,,
+BCIN04G02230,0.27183176,0,,
+BCIN01G08990,0.271561494,0,,
+BCIN15G03600,0.271536879,0,,
+BCIN04G05880,0.271185734,0,,
+BCIN01G06060,0.271031512,0,,
+BCIN02G03540,0.27102699,0,40S ribosomal S15 [Botrytis cinerea ],F:RNA binding; F:structural constituent of ribosome; C:intracellular ribonucleoprotein complex; C:small ribosomal subunit; C:ribosome; P:translation
+BCIN04G03030,0.270932548,0,eukaryotic translation initiation factor 3 [Botrytis cinerea ],F:translation initiation factor activity; P:formation of translation preinitiation complex; C:cytoplasm; C:eukaryotic 43S preinitiation complex; C:eukaryotic 48S preinitiation complex; P:translational initiation; P:regulation of translational initiation; C:eukaryotic translation initiation factor 3 complex; P:translation
+BCIN02G01790,0.270780335,0,tubulin alpha chain [Botrytis cinerea T4],F:nucleotide binding; F:GTP binding; C:cytoskeleton; C:cytoplasm; F:GTPase activity; F:structural constituent of cytoskeleton; C:microtubule; P:microtubule-based process
+BCIN06G07020,0.270732612,0,,
+BCIN05G02680,0.270639174,0,,
+BCIN03G04860,0.270620084,0,,
+BCIN16G03970,0.270566835,0,,
+BCIN03G04630,0.270555281,0,,
+BCIN11G05530,0.270510069,0,,
+BCIN15G00430,0.270500022,0,NACHT and Ankyrin domain [Botrytis cinerea T4],F:protein binding
+BCIN01G10700,0.270357354,0,,
+BCIN02G08550,0.270318673,0,,
+BCIN01G03440,0.270286522,0,valyl-trna synthetase,F:nucleotide binding; F:valine-tRNA ligase activity; P:tRNA aminoacylation for protein translation; F:ATP binding; F:aminoacyl-tRNA ligase activity; P:valyl-tRNA aminoacylation; P:regulation of translational fidelity; F:aminoacyl-tRNA editing activity; F:ligase activity; P:translation
+BCIN02G01870,0.270076539,0,NADH-dependent flavin oxidoreductase [Botrytis cinerea T4],F:FMN binding; F:oxidoreductase activity; F:catalytic activity; P:oxidation-reduction process
+BCIN04G02130,0.270048909,0,,
+BCIN13G04270,0.26993588,0,,
+BCIN04G00530,0.269924326,0,,
+BCIN01G04240,0.269716854,0,hypothetical protein BC1G_12228 [Botrytis cinerea B050],C:membrane; C:integral component of membrane
+BCIN03G03170,0.269698769,0,,
+BCIN01G05770,0.269647529,0,hypothetical protein BC1G_00442,P:metabolic process; F:hydrolase activity
+BCIN14G01300,0.269638487,0,,
+BCIN05G01010,0.269523448,0,,
+BCIN05G01120,0.269509382,0,dienelactone hydrolase family,F:hydrolase activity
+BCIN07G02070,0.269407404,0,,
+BCIN10G05410,0.269371737,0,phenylalanyl-tRNA synthetase beta chain [Botrytis cinerea T4],F:magnesium ion binding; F:ATP binding; F:RNA binding; C:cytoplasm; F:phenylalanine-tRNA ligase activity; P:phenylalanyl-tRNA aminoacylation
+BCIN05G06330,0.269322004,0,,
+BCIN08G05780,0.269302413,0,hypothetical protein BC1G_08963,P:metabolic process; F:hydrolase activity
+BCIN10G01400,0.269255191,0,,
+BCIN02G08150,0.269249163,0,,
+BCIN11G03150,0.269248158,0,,
+BCIN06G01300,0.269240121,0,,
+BCIN16G04720,0.269187374,0,,
+BCIN02G08690,0.269126589,0,26S protease regulatory subunit 6b [Botrytis cinerea T4],F:nucleotide binding; F:ATP binding; C:cytoplasm; P:protein catabolic process; P:proteolysis; F:peptidase activity; F:hydrolase activity
+BCIN02G07210,0.268819651,0,aldose 1-epimerase,P:carbohydrate metabolic process; F:catalytic activity; F:carbohydrate binding; F:isomerase activity
+BCIN14G01840,0.26880659,0,,
+BCIN04G05670,0.268740279,0,,
+BCIN07G00010,0.268612682,0,,
+BCIN09G03990,0.268527784,0,,
+BCIN07G01580,0.268471018,0,nucleolar GTP-binding [Botrytis cinerea T4],F:GTP binding; P:ribosome biogenesis; C:nucleolus
+BCIN11G05570,0.268391646,0,,
+BCIN10G01890,0.268339402,0,,
+BCIN12G06560,0.268310768,0,,
+BCIN08G05250,0.267997299,0,,
+BCIN14G03500,0.267963642,0,eukaryotic translation initiation factor 2 subunit beta [Botrytis cinerea T4],F:translation initiation factor activity; P:translational initiation
+BCIN01G05550,0.267878242,0,,
+BCIN10G03820,0.267675291,0,eukaryotic translation initiation factor 3 subunit a,F:translation initiation factor activity; P:formation of translation preinitiation complex; C:eukaryotic 43S preinitiation complex; C:eukaryotic 48S preinitiation complex; P:regulation of translational initiation; C:eukaryotic translation initiation factor 3 complex
+BCIN04G04130,0.267633093,0,,
+BCIN02G01920,0.267590896,0,,
+BCIN11G03320,0.267547693,0,,
+BCIN13G03450,0.267396485,0,,
+BCIN12G06020,0.267293,0,,
+BCIN02G07000,0.267276423,0,,
+BCIN05G02250,0.267237239,0,,
+BCIN01G00640,0.267200065,0,,
+BCIN11G00750,0.267059909,0,,
+BCIN12G00220,0.267006157,0,pyruvate dehydrogenase dihydrolipoamide acetyltransferase component [Botrytis cinerea 1],C:integral component of membrane; F:transferase activity
+BCIN12G04430,0.266786629,0,,
+BCIN01G00420,0.266755985,0,plasma membrane stress response (Ist2) [Botrytis cinerea T4],C:membrane; C:integral component of membrane
+BCIN02G03290,0.266640444,0,,
+BCIN03G00590,0.266523396,0,40S ribosomal S5,F:RNA binding; F:structural constituent of ribosome; C:intracellular ribonucleoprotein complex; C:cytosolic small ribosomal subunit; F:mRNA binding; C:small ribosomal subunit; P:ribosomal small subunit assembly; C:ribosome; F:rRNA binding; P:translation
+BCIN11G05660,0.266515358,0,,
+BCIN14G04520,0.266495766,0,,
+BCIN11G02430,0.266478184,0,,
+BCIN10G00770,0.266466127,0,,
+BCIN01G02880,0.266451057,0,,
+BCIN07G04180,0.266431465,0,,
+BCIN08G02940,0.266427949,0,,
+BCIN07G07110,0.266257651,0,,
+BCIN01G02500,0.266111466,0,,
+BCIN02G07550,0.265821106,0,cbs pb1 domain-containing,F:protein binding; F:catalytic activity
+BCIN14G02030,0.265795988,0,,
+BCIN09G05650,0.265724654,0,,
+BCIN03G07020,0.26570456,0,,
+BCIN09G06830,0.265695518,0,,
+BCIN08G05930,0.265405158,0,,
+BCIN02G09190,0.265299161,0,,
+BCIN02G05950,0.26526048,0,,
+BCIN13G03110,0.265129868,0,-like family domain-containing [Botrytis cinerea T4],no GO terms
+BCIN08G06620,0.265032914,0,,
+BCIN12G06130,0.265000764,0,,
+BCIN07G00150,0.264841518,0,,
+BCIN09G06420,0.264731,0,,
+BCIN01G05490,0.264726479,0,,
+BCIN01G02630,0.264527547,0,,
+BCIN16G02100,0.264394423,0,,
+BCIN05G07570,0.264300483,0,,
+BCIN04G06450,0.264120139,0,,
+BCIN01G01970,0.264098035,0,,
+BCIN02G06130,0.264012133,0,,
+BCIN02G06580,0.263689622,0,,
+BCIN08G02950,0.263640894,0,D-arabinitol dehydrogenase [Botrytis cinerea T4],F:oxidoreductase activity; P:oxidation-reduction process
+BCIN10G05840,0.263577597,0,mfs multidrug,P:transmembrane transport; C:membrane; C:integral component of membrane
+BCIN02G06140,0.263383689,0,,
+BCIN03G01920,0.263318886,0,,
+BCIN04G02960,0.263269655,0,,
+BCIN05G00540,0.263212387,0,,
+BCIN01G04950,0.263195809,0,,
+BCIN01G07320,0.263063188,0,,
+BCIN01G07490,0.26280096,0,,
+BCIN06G06600,0.262790913,0,,
+BCIN13G00010,0.262781368,0,hypothetical protein BC1G_15526,"F:iron ion binding; F:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen; P:oxidation-reduction process; F:monooxygenase activity; F:heme binding"
+BCIN04G00980,0.262763283,0,,
+BCIN04G04790,0.262745701,0,,
+BCIN12G04180,0.262577413,0,,
+BCIN08G01710,0.262396063,0,,
+BCIN08G05410,0.262300114,0,dshct domain-containing [Botrytis cinerea 1],F:ATP binding; F:RNA binding; F:RNA helicase activity; P:RNA catabolic process
+BCIN07G04390,0.262155436,0,,
+BCIN13G03320,0.26203035,0,,
+BCIN07G02570,0.261991167,0,,
+BCIN03G04740,0.261980115,0,,
+BCIN09G06410,0.261920837,0,,
+BCIN01G00260,0.261876128,0,,
+BCIN07G04230,0.261847996,0,,
+BCIN11G04800,0.261766112,0,,
+BCIN04G01770,0.261746018,0,,
+BCIN09G01290,0.261687745,0,,
+BCIN09G05760,0.261687243,0,,
+BCIN11G03010,0.261498861,0,,
+BCIN05G00660,0.261435564,0,,
+BCIN07G06570,0.261422503,0,,
+BCIN08G03660,0.261323037,0,,
+BCIN02G00440,0.261130636,0,,
+BCIN12G06550,0.261114058,0,,
+BCIN14G00170,0.261015095,0,,
+BCIN01G10290,0.260788031,0,,
+BCIN10G02830,0.260678518,0,,
+BCIN02G06250,0.260572019,0,,
+BCIN02G00990,0.260556949,0,,
+BCIN12G06160,0.260531831,0,hypothetical protein BcDW1_488,no GO terms
+BCIN12G01270,0.260395693,0,,
+BCIN08G03690,0.260274626,0,,
+BCIN08G06860,0.260095286,0,,
+BCIN06G04560,0.259914942,0,,
+BCIN03G04780,0.259812462,0,,
+BCIN02G01090,0.259771269,0,,
+BCIN05G01590,0.259667784,0,,
+BCIN04G03220,0.259537172,0,,
+BCIN15G00160,0.259515571,0,,
+BCIN09G02170,0.259490956,0,,
+BCIN02G08770,0.259476387,0,,
+BCIN06G07430,0.259446749,0,hypothetical protein BC1G_14237,no GO terms
+BCIN11G01310,0.259390485,0,hypothetical protein BC1G_03976,no GO terms
+BCIN12G05550,0.259250831,0,,
+BCIN08G04250,0.259191553,0,,
+BCIN04G03400,0.259189041,0,,
+BCIN15G03200,0.258945903,0,,
+BCIN10G03190,0.258784145,0,,
+BCIN12G05330,0.25852895,0,,
+BCIN14G00290,0.258070301,0,,
+BCIN05G01550,0.25804016,0,,
+BCIN13G04860,0.257958779,0,PH domain-containing [Botrytis cinerea T4],no GO terms
+BCIN03G08030,0.257935671,0,[Botrytis cinerea ],no GO terms
+BCIN15G01490,0.257875388,0,,
+BCIN06G00790,0.257844242,0,,
+BCIN09G05200,0.2577925,0,,
+BCIN01G02600,0.257768387,0,,
+BCIN04G03250,0.257748795,0,,
+BCIN08G02740,0.257598089,0,,
+BCIN02G03490,0.257589047,0,,
+BCIN13G05480,0.257571967,0,,
+BCIN10G02070,0.257507164,0,,
+BCIN06G06330,0.257501638,0,60S acidic ribosomal P0 [Botrytis cinerea T4],C:intracellular ribonucleoprotein complex; P:ribosome biogenesis; C:ribosome; C:intracellular
+BCIN01G09530,0.257438844,0,,
+BCIN06G01840,0.257430806,0,Grp1p [Botrytis cinerea T4],F:nucleotide binding; F:nucleic acid binding
+BCIN05G07070,0.257375547,0,,
+BCIN16G01990,0.257175108,0,,
+BCIN10G04210,0.257128389,0,,
+BCIN01G01320,0.257112314,0,,
+BCIN01G05840,0.257011341,0,,
+BCIN12G00720,0.257006318,0,,
+BCIN16G00350,0.256987731,0,,
+BCIN02G08610,0.256944026,0,,
+BCIN03G03440,0.256908861,0,,
+BCIN14G00410,0.256862142,0,,
+BCIN03G03660,0.256823461,0,transaldolase [Botrytis cinerea T4],F:nucleic acid binding
+BCIN12G00030,0.25679332,0,,
